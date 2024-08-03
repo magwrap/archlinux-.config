@@ -11,3 +11,6 @@ obsidian/
 obsidian
 ./obsidian
 ./obsidian/*
+
+*/Cached/*
+gh/hosts.yml

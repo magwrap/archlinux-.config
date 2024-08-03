@@ -1,6 +1,6 @@
 { 
     "layer": "bottom",
-    "position": "top",
+    "position": "bottom",
     "height": 42,
 
     "modules-left": [ 
@@ -11,19 +11,19 @@
     ],
 
  "modules-center": [
-      "mpd",
-      "clock",
-      "custom/weather"
-    ],
 
+ //     "mpd",
+ //     "custom/weather",
+      "clock",
+ ],
     "modules-right": [
       "idle_inhibitor",
       "custom/audio_idle_inhibitor",
       "temperature",
       "custom/updates",
       "custom/keyboard-layout",
-      "custom/wl-gammarelay-temperature", 
-      "custom/wl-gammarelay-brightness",
+//      "custom/wl-gammarelay-temperature", 
+//      "custom/wl-gammarelay-brightness",
       "custom/gammastep",
       "backlight",
       "pulseaudio#mic",
@@ -299,3 +299,4 @@
     },
 
 }
+
