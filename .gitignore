@@ -1,2 +1,13 @@
-cached/*
+*/cached/*
 Beeper/*
+Beeper/
+Beeper
+./Beeper
+./Beeper/*
+
+Obsidian/*
+Obsidian
+obsidian/
+obsidian
+./obsidian
+./obsidian/*
