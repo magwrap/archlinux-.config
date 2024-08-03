@@ -1,0 +1,21 @@
+{"value":"Preparing request to http://localhost:3000/api/v1/languages","name":"Text","timestamp":1719843352932}
+{"value":"Current time is 2024-07-01T14:15:52.932Z","name":"Text","timestamp":1719843352932}
+{"value":"Enable automatic URL encoding","name":"Text","timestamp":1719843352932}
+{"value":"Using default HTTP version","name":"Text","timestamp":1719843352932}
+{"value":"Enable timeout of 30000ms","name":"Text","timestamp":1719843352932}
+{"value":"Enable SSL validation","name":"Text","timestamp":1719843352932}
+{"name":"Text","value":"Found bundle for host localhost: 0x383c054f5e40 [serially]\n","timestamp":1719843352932}
+{"name":"Text","value":"Can not multiplex, even if we wanted to!\n","timestamp":1719843352932}
+{"name":"Text","value":"Re-using existing connection! (#7) with host localhost\n","timestamp":1719843352932}
+{"name":"Text","value":"Connected to localhost (127.0.0.1) port 3000 (#7)\n","timestamp":1719843352932}
+{"name":"HeaderOut","value":"GET /api/v1/languages HTTP/1.1\r\nHost: localhost:3000\r\nUser-Agent: insomnia/9.3.1\r\nAccept: */*\r\n\r\n","timestamp":1719843352933}
+{"name":"Text","value":"Mark bundle as not supporting multiuse\n","timestamp":1719843352942}
+{"name":"HeaderIn","value":"HTTP/1.1 404 Not Found\r\n","timestamp":1719843352942}
+{"name":"HeaderIn","value":"content-type: application/json; charset=UTF-8\r\n","timestamp":1719843352942}
+{"name":"HeaderIn","value":"x-request-id: 6fc0a060-9848-4db5-a780-f41b40a9dc72\r\n","timestamp":1719843352942}
+{"name":"HeaderIn","value":"x-runtime: 0.007900\r\n","timestamp":1719843352942}
+{"name":"HeaderIn","value":"server-timing: \r\n","timestamp":1719843352942}
+{"name":"HeaderIn","value":"Content-Length: 191\r\n","timestamp":1719843352942}
+{"name":"HeaderIn","value":"\r\n","timestamp":1719843352942}
+{"name":"Text","value":"Received 191 B chunk","timestamp":1719843352942}
+{"name":"Text","value":"Connection #7 to host localhost left intact\n","timestamp":1719843352942}

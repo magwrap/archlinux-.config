@@ -1,0 +1,83 @@
+{"value":"Preparing request to https://tutora-api-late-tree-5908.fly.dev/languages","name":"Text","timestamp":1720007263000}
+{"value":"Current time is 2024-07-03T11:47:43.000Z","name":"Text","timestamp":1720007263000}
+{"value":"Enable automatic URL encoding","name":"Text","timestamp":1720007263000}
+{"value":"Using default HTTP version","name":"Text","timestamp":1720007263003}
+{"value":"Enable timeout of 30000ms","name":"Text","timestamp":1720007263003}
+{"value":"Enable SSL validation","name":"Text","timestamp":1720007263003}
+{"name":"Text","value":"  Trying 66.241.124.204:443...\n","timestamp":1720007263023}
+{"name":"Text","value":"Connected to tutora-api-late-tree-5908.fly.dev (66.241.124.204) port 443 (#0)\n","timestamp":1720007263036}
+{"name":"Text","value":"ALPN, offering h2\n","timestamp":1720007263038}
+{"name":"Text","value":"ALPN, offering http/1.1\n","timestamp":1720007263038}
+{"name":"Text","value":" CAfile: /etc/ssl/certs/ca-certificates.crt\n","timestamp":1720007263061}
+{"name":"Text","value":"TLSv1.0 (OUT), TLS header, Certificate Status (22):\n","timestamp":1720007263061}
+{"name":"Text","value":"TLSv1.3 (OUT), TLS handshake, Client hello (1):\n","timestamp":1720007263061}
+{"name":"Text","value":"TLSv1.2 (IN), TLS header, Certificate Status (22):\n","timestamp":1720007263080}
+{"name":"Text","value":"TLSv1.3 (IN), TLS handshake, Server hello (2):\n","timestamp":1720007263080}
+{"name":"Text","value":"TLSv1.2 (IN), TLS header, Finished (20):\n","timestamp":1720007263081}
+{"name":"Text","value":"TLSv1.2 (IN), TLS header, Supplemental data (23):\n","timestamp":1720007263081}
+{"name":"Text","value":"TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):\n","timestamp":1720007263081}
+{"name":"Text","value":"TLSv1.2 (IN), TLS header, Supplemental data (23):\n","timestamp":1720007263081}
+{"name":"Text","value":"TLSv1.3 (IN), TLS handshake, Certificate (11):\n","timestamp":1720007263081}
+{"name":"Text","value":"TLSv1.2 (IN), TLS header, Supplemental data (23):\n","timestamp":1720007263082}
+{"name":"Text","value":"TLSv1.3 (IN), TLS handshake, CERT verify (15):\n","timestamp":1720007263082}
+{"name":"Text","value":"TLSv1.2 (IN), TLS header, Supplemental data (23):\n","timestamp":1720007263083}
+{"name":"Text","value":"TLSv1.3 (IN), TLS handshake, Finished (20):\n","timestamp":1720007263083}
+{"name":"Text","value":"TLSv1.2 (OUT), TLS header, Finished (20):\n","timestamp":1720007263083}
+{"name":"Text","value":"TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):\n","timestamp":1720007263083}
+{"name":"Text","value":"TLSv1.2 (OUT), TLS header, Supplemental data (23):\n","timestamp":1720007263083}
+{"name":"Text","value":"TLSv1.3 (OUT), TLS handshake, Finished (20):\n","timestamp":1720007263083}
+{"name":"Text","value":"SSL connection using TLSv1.3 / TLS_AES_256_GCM_SHA384\n","timestamp":1720007263083}
+{"name":"Text","value":"ALPN, server accepted to use h2\n","timestamp":1720007263083}
+{"name":"Text","value":"Server certificate:\n","timestamp":1720007263083}
+{"name":"Text","value":" subject: CN=*.fly.dev\n","timestamp":1720007263083}
+{"name":"Text","value":" start date: Jun  4 23:38:39 2024 GMT\n","timestamp":1720007263083}
+{"name":"Text","value":" expire date: Sep  2 23:38:38 2024 GMT\n","timestamp":1720007263083}
+{"name":"Text","value":" subjectAltName: host \"tutora-api-late-tree-5908.fly.dev\" matched cert's \"*.fly.dev\"\n","timestamp":1720007263083}
+{"name":"Text","value":" issuer: C=US; O=Let's Encrypt; CN=R3\n","timestamp":1720007263083}
+{"name":"Text","value":" SSL certificate verify ok.\n","timestamp":1720007263083}
+{"name":"Text","value":"Using HTTP2, server supports multiplexing\n","timestamp":1720007263083}
+{"name":"Text","value":"Connection state changed (HTTP/2 confirmed)\n","timestamp":1720007263083}
+{"name":"Text","value":"Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0\n","timestamp":1720007263083}
+{"name":"Text","value":"TLSv1.2 (OUT), TLS header, Supplemental data (23):\n","timestamp":1720007263083}
+{"name":"Text","value":"TLSv1.2 (OUT), TLS header, Supplemental data (23):\n","timestamp":1720007263083}
+{"name":"Text","value":"TLSv1.2 (OUT), TLS header, Supplemental data (23):\n","timestamp":1720007263083}
+{"name":"Text","value":"Using Stream ID: 1 (easy handle 0xcc804a15800)\n","timestamp":1720007263083}
+{"name":"Text","value":"TLSv1.2 (OUT), TLS header, Supplemental data (23):\n","timestamp":1720007263083}
+{"name":"HeaderOut","value":"GET /languages HTTP/2\r\nHost: tutora-api-late-tree-5908.fly.dev\r\nuser-agent: insomnia/9.3.1\r\naccept: */*\r\n\r\n","timestamp":1720007263083}
+{"name":"Text","value":"TLSv1.2 (IN), TLS header, Supplemental data (23):\n","timestamp":1720007263101}
+{"name":"Text","value":"TLSv1.3 (IN), TLS handshake, Newsession Ticket (4):\n","timestamp":1720007263101}
+{"name":"Text","value":"TLSv1.2 (IN), TLS header, Supplemental data (23):\n","timestamp":1720007263101}
+{"name":"Text","value":"TLSv1.3 (IN), TLS handshake, Newsession Ticket (4):\n","timestamp":1720007263101}
+{"name":"Text","value":"old SSL session ID is stale, removing\n","timestamp":1720007263101}
+{"name":"Text","value":"TLSv1.2 (IN), TLS header, Supplemental data (23):\n","timestamp":1720007263101}
+{"name":"Text","value":"TLSv1.3 (IN), TLS handshake, Newsession Ticket (4):\n","timestamp":1720007263101}
+{"name":"Text","value":"old SSL session ID is stale, removing\n","timestamp":1720007263101}
+{"name":"Text","value":"TLSv1.2 (IN), TLS header, Supplemental data (23):\n","timestamp":1720007263101}
+{"name":"Text","value":"TLSv1.3 (IN), TLS handshake, Newsession Ticket (4):\n","timestamp":1720007263101}
+{"name":"Text","value":"old SSL session ID is stale, removing\n","timestamp":1720007263101}
+{"name":"Text","value":"TLSv1.2 (IN), TLS header, Supplemental data (23):\n","timestamp":1720007263101}
+{"name":"Text","value":"Connection state changed (MAX_CONCURRENT_STREAMS == 32)!\n","timestamp":1720007263101}
+{"name":"Text","value":"TLSv1.2 (OUT), TLS header, Supplemental data (23):\n","timestamp":1720007263101}
+{"name":"Text","value":"TLSv1.2 (IN), TLS header, Supplemental data (23):\n","timestamp":1720007263101}
+{"name":"Text","value":"TLSv1.2 (IN), TLS header, Supplemental data (23):\n","timestamp":1720007263220}
+{"name":"HeaderIn","value":"HTTP/2 200 \r\n","timestamp":1720007263220}
+{"name":"HeaderIn","value":"x-frame-options: SAMEORIGIN\r\n","timestamp":1720007263220}
+{"name":"HeaderIn","value":"x-xss-protection: 0\r\n","timestamp":1720007263220}
+{"name":"HeaderIn","value":"x-content-type-options: nosniff\r\n","timestamp":1720007263220}
+{"name":"HeaderIn","value":"x-permitted-cross-domain-policies: none\r\n","timestamp":1720007263220}
+{"name":"HeaderIn","value":"referrer-policy: strict-origin-when-cross-origin\r\n","timestamp":1720007263220}
+{"name":"HeaderIn","value":"content-type: application/json; charset=utf-8\r\n","timestamp":1720007263220}
+{"name":"HeaderIn","value":"vary: Accept\r\n","timestamp":1720007263220}
+{"name":"HeaderIn","value":"etag: W/\"4f53cda18c2baa0c0354bb5f9a3ecbe5\"\r\n","timestamp":1720007263220}
+{"name":"HeaderIn","value":"cache-control: max-age=0, private, must-revalidate\r\n","timestamp":1720007263220}
+{"name":"HeaderIn","value":"x-request-id: 217dc69b-faee-4886-ad23-5f633c11b252\r\n","timestamp":1720007263220}
+{"name":"HeaderIn","value":"x-runtime: 0.046328\r\n","timestamp":1720007263220}
+{"name":"HeaderIn","value":"strict-transport-security: max-age=63072000; includeSubDomains\r\n","timestamp":1720007263220}
+{"name":"HeaderIn","value":"content-length: 2\r\n","timestamp":1720007263220}
+{"name":"HeaderIn","value":"date: Wed, 03 Jul 2024 11:47:42 GMT\r\n","timestamp":1720007263220}
+{"name":"HeaderIn","value":"server: Fly/577378ac (2024-07-02)\r\n","timestamp":1720007263220}
+{"name":"HeaderIn","value":"via: 2 fly.io\r\n","timestamp":1720007263220}
+{"name":"HeaderIn","value":"fly-request-id: 01J1W6R0VQDBH2DJARRYPQ8W0C-waw\r\n","timestamp":1720007263220}
+{"name":"HeaderIn","value":"\r\n","timestamp":1720007263220}
+{"name":"Text","value":"Received 2 B chunk","timestamp":1720007263221}
+{"name":"Text","value":"Connection #0 to host tutora-api-late-tree-5908.fly.dev left intact\n","timestamp":1720007263221}

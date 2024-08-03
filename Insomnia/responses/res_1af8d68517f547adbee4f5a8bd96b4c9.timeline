@@ -1,0 +1,23 @@
+{"value":"Preparing request to https://tutora-api.fly.dev/levels","name":"Text","timestamp":1720007619333}
+{"value":"Current time is 2024-07-03T11:53:39.333Z","name":"Text","timestamp":1720007619333}
+{"value":"Enable automatic URL encoding","name":"Text","timestamp":1720007619333}
+{"value":"Using default HTTP version","name":"Text","timestamp":1720007619334}
+{"value":"Enable timeout of 30000ms","name":"Text","timestamp":1720007619334}
+{"value":"Enable SSL validation","name":"Text","timestamp":1720007619334}
+{"name":"Text","value":"Too old connection (356 seconds), disconnect it\n","timestamp":1720007619334}
+{"name":"Text","value":"Connection 0 seems to be dead!\n","timestamp":1720007619334}
+{"name":"Text","value":"Closing connection 0\n","timestamp":1720007619334}
+{"name":"Text","value":"TLSv1.2 (IN), TLS header, Supplemental data (23):\n","timestamp":1720007619334}
+{"name":"Text","value":"TLSv1.2 (OUT), TLS header, Supplemental data (23):\n","timestamp":1720007619334}
+{"name":"Text","value":"TLSv1.3 (OUT), TLS alert, close notify (256):\n","timestamp":1720007619334}
+{"name":"Text","value":"  Trying 66.241.125.28:443...\n","timestamp":1720007619379}
+{"name":"Text","value":"Connected to tutora-api.fly.dev (66.241.125.28) port 443 (#1)\n","timestamp":1720007619390}
+{"name":"Text","value":"ALPN, offering h2\n","timestamp":1720007619391}
+{"name":"Text","value":"ALPN, offering http/1.1\n","timestamp":1720007619391}
+{"name":"Text","value":" CAfile: /etc/ssl/certs/ca-certificates.crt\n","timestamp":1720007619411}
+{"name":"Text","value":"TLSv1.0 (OUT), TLS header, Certificate Status (22):\n","timestamp":1720007619411}
+{"name":"Text","value":"TLSv1.3 (OUT), TLS handshake, Client hello (1):\n","timestamp":1720007619411}
+{"name":"Text","value":"TLSv1.0 (OUT), TLS header, Unknown (21):\n","timestamp":1720007624435}
+{"name":"Text","value":"TLSv1.3 (OUT), TLS alert, decode error (562):\n","timestamp":1720007624435}
+{"name":"Text","value":"error:0A000126:SSL routines::unexpected eof while reading\n","timestamp":1720007624435}
+{"name":"Text","value":"Closing connection 1\n","timestamp":1720007624435}

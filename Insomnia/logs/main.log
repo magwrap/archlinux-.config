@@ -1,0 +1,20 @@
+[2024-07-03 18:17:02.592] [info]  Running version 9.3.1
+[2024-07-03 18:17:02.622] [error] [electron client protocol] FAILED to set default protocol 'insomnia://'
+[2024-07-03 18:17:02.645] [info]  [electron client protocol] the current executable is not the default protocol for 'insomnia://'
+[2024-07-03 18:17:02.683] [info]  [electron client protocol] the default application set for 'insomnia://' is 'insomnia.desktop
+'
+[2024-07-03 18:17:02.865] [info]  [fix] Running database repairs
+[2024-07-03 18:17:02.943] [info]  [db] Initialized DB at /home/leshy/.config/Insomnia/insomnia.$TYPE.db
+[2024-07-03 18:17:02.943] [info]  [db] Init responses DB
+[2024-07-03 18:17:02.943] [info]  [db] Init websocket-responses DB
+[2024-07-03 18:17:02.945] [info]  [localstorage] Initialized at /home/leshy/.config/Insomnia/localStorage
+[2024-07-03 18:17:03.014] [info]  [main] Loading file:///opt/insomnia/resources/app.asar/index.html
+[2024-07-03 18:17:03.026] [info]  [main] Registering the hidden window restarting handler
+[2024-07-03 18:17:03.026] [info]  [updater] Not supported on this platform linux
+[2024-07-03 18:17:06.569] [info]  [main] Window ready, handling command line arguments [ '/opt/insomnia/insomnia' ]
+[2024-07-03 18:17:06.571] [info]  [main] Check args and create windows []
+[2024-07-03 18:17:06.571] [info]  [main] Checking for newer version than  9.3.1
+[2024-07-03 18:17:11.730] [info]  [main] Found newer version
+[2024-07-03 18:17:11.737] [info]  [main] Backup found at: /home/leshy/.config/Insomnia/backups/9.3.1
+[2024-07-03 18:18:15.378] [info]  [response] Delete body /home/leshy/.config/Insomnia/responses/842e01c1-c167-4238-b326-44c8d75f5d38.response
+[2024-07-03 18:18:15.378] [info]  [response] Delete timeline /home/leshy/.config/Insomnia/responses/res_0c02b7ce01bb4d0188a997d01c5a7f46.timeline

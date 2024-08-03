@@ -1,0 +1,184 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace Francesco; 
+
+public class TelegramBot
+{
+    private const string Token = "hehe removed the token";
+    private MediaDl mediaDl = new MediaDl();
+
+    public static void Main()
+    {
+        TelegramBot bot = new TelegramBot();
+
+        bot.Run();
+
+        Console.Read();
+    }
+
+    public async void Run()
+    {
+        using var cts = new CancellationTokenSource();
+        var bot = new TelegramBotClient(Token, cancellationToken: cts.Token);
+        var me = await bot.GetMeAsync();
+        bot.OnMessage += OnMessage;
+
+        Console.WriteLine($"@{me.Username} is running... Press Enter to terminate");
+        Console.ReadLine();
+        cts.Cancel(); // stop the bot
+
+        // method that handles messages received by the bot:
+        async Task OnMessage(Message msg, UpdateType type)
+        {
+            if (msg.Text is null) return;
+
+            Console.WriteLine($"Received {type} '{msg.Text}' in {msg.Chat}");
+
+            if (IsValidUri(msg.Text))
+            {
+                Console.WriteLine("attempting to download");
+
+                var mediaInfo = await mediaDl.DownloadVideo(msg.Text);
+
+                await bot.SendTextMessageAsync(msg.Chat, "Uploading...");
+
+                using (Stream stream = System.IO.File.OpenRead(mediaInfo.Uid))
+                {
+                    await bot.SendVideoAsync(msg.Chat,
+                    InputFile.FromStream(stream, mediaInfo.Name),
+                    supportsStreaming: true,
+                    width: mediaInfo.Width, height: mediaInfo.Height);
+                }
+            }
+        }
+    }
+    private bool IsValidUri(string messageText)
+    {
+        if (Uri.CheckHostName(messageText) != UriHostNameType.Unknown) return false;
+
+        if (Uri.IsWellFormedUriString(messageText, UriKind.Absolute) != true) return false;
+
+        return true;
+    }
+}
+
+public class MediaDl
+{
+    YoutubeDL youtubeDL;
+    const string OutputFolderPath = "/tmp/BotVideos/";
+    readonly OptionSet Options = new OptionSet()
+    {
+        Format = "mp4"
+        //RecodeVideo = VideoRecodeFormat.Mp4
+    };
+    public MediaDl()
+    {
+        youtubeDL = new YoutubeDL
+        {
+            YoutubeDLPath = "/opt/homebrew/bin/yt-dlp",
+            OutputFolder = OutputFolderPath,
+        };
+    }
+
+    public async Task<MediaMData> DownloadVideo(string link)
+    {
+        var res = await youtubeDL.RunVideoDownload(link, overrideOptions: Options);
+
+        string name = res.Data;
+
+        name = RemoveSubstring(name, OutputFolderPath);
+
+        Console.WriteLine(name);
+
+        string uid = UpdateFileNameWithUid(res.Data);
+
+        Resolution resolution = await GetResolution(link);
+
+        return new MediaMData(uid, name, resolution.Width, resolution.Height);
+    }
+
+    private async void GetMediaInformation(string link)
+    {
+        var res = await youtubeDL.RunVideoDataFetch(link, overrideOptions: Options);
+
+        VideoData data = res.Data;
+
+        Console.WriteLine(data.Format);
+    }
+
+    private async Task<string> GetFormatInfo(string link)
+    {
+        var res = await youtubeDL.RunVideoDataFetch(link, overrideOptions: Options);
+
+        VideoData data = res.Data;
+
+        return data.Format;
+    }
+
+    private string UpdateFileNameWithUid(string fileNameAndPath)
+    {
+        string randomId = Guid.NewGuid().ToString();
+
+        string UpdatedFileNameWithUid = string.Concat(OutputFolderPath, randomId);
+
+        Console.WriteLine(UpdatedFileNameWithUid);
+
+        try
+        {
+            System.IO.File.Move(fileNameAndPath, UpdatedFileNameWithUid);
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e.Message);
+            throw;
+        }
+
+        return UpdatedFileNameWithUid;
+    }
+
+    private string RemoveSubstring(string input, string substring)
+    {
+        return input.Replace(substring, "");
+    }
+
+    private async Task<Resolution> GetResolution(string link)
+    {
+        string formatInfo = await GetFormatInfo(link);
+
+        string pattern = @"(\d+)x(\d+)";
+
+        Match match = Regex.Match(formatInfo, pattern);
+
+        if (match.Success)
+        {
+            // Parse the matched groups into integers (hihi some ai generated code)
+            int width = int.Parse(match.Groups[1].Value);
+            int height = int.Parse(match.Groups[2].Value);
+
+            // Console.WriteLine($"width: {width} \t height: {height}");
+
+            Resolution resolution = new Resolution(width, height);
+
+            return resolution;
+        }
+
+        return new Resolution();
+    }
+}
+
+public struct Resolution(int width, int height)
+{
+    public int Width { get; } = width;
+    public int Height { get; } = height;
+}
+
+public struct MediaMData(string uid, string name, int width, int height)
+{
+    public string Uid { get; } = uid;
+    public string Name { get; } = name;
+    public int Width { get; } = width;
+    public int Height { get; } = height;
+}

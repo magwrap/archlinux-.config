@@ -1,0 +1,29 @@
+2024/07/25-15:27:26.536 1d5fc Reusing MANIFEST /home/leshy/.config/Beeper/IndexedDB/nova_nova-web_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/25-15:27:26.536 1d5fc Recovering log #83
+2024/07/25-15:27:26.542 1d5fc Reusing old log /home/leshy/.config/Beeper/IndexedDB/nova_nova-web_0.indexeddb.leveldb/000083.log 
+2024/07/25-16:15:34.329 1d5fc Level-0 table #90: started
+2024/07/25-16:15:34.382 1d5fc Level-0 table #90: 1002719 bytes OK
+2024/07/25-16:15:34.387 1d5fc Delete type=0 #83
+2024/07/25-16:18:56.988 1d5fa Compacting 1@1 + 3@2 files
+2024/07/25-16:18:57.062 1d5fa Generated table #91@1: 1852 keys, 2133272 bytes
+2024/07/25-16:18:57.123 1d5fa Generated table #92@1: 1403 keys, 2128668 bytes
+2024/07/25-16:18:57.198 1d5fa Generated table #93@1: 12217 keys, 1768606 bytes
+2024/07/25-16:18:57.198 1d5fa Compacted 1@1 + 3@2 files => 6030546 bytes
+2024/07/25-16:18:57.201 1d5fa compacted to: files[ 0 0 3 0 0 0 0 ]
+2024/07/25-16:18:57.201 1d5fa Delete type=2 #85
+2024/07/25-16:18:57.202 1d5fa Delete type=2 #86
+2024/07/25-16:18:57.202 1d5fa Delete type=2 #87
+2024/07/25-16:18:57.202 1d5fa Delete type=2 #90
+2024/07/26-13:10:34.392 1d5fc Level-0 table #95: started
+2024/07/26-13:10:34.426 1d5fc Level-0 table #95: 1016899 bytes OK
+2024/07/26-13:10:34.434 1d5fc Delete type=0 #89
+2024/07/29-11:30:50.408 1d5fc Compacting 1@1 + 3@2 files
+2024/07/29-11:30:50.499 1d5fc Generated table #96@1: 1878 keys, 2132887 bytes
+2024/07/29-11:30:50.564 1d5fc Generated table #97@1: 1402 keys, 2129077 bytes
+2024/07/29-11:30:50.630 1d5fc Generated table #98@1: 12750 keys, 2032284 bytes
+2024/07/29-11:30:50.630 1d5fc Compacted 1@1 + 3@2 files => 6294248 bytes
+2024/07/29-11:30:50.633 1d5fc compacted to: files[ 0 0 3 0 0 0 0 ]
+2024/07/29-11:30:50.634 1d5fc Delete type=2 #91
+2024/07/29-11:30:50.634 1d5fc Delete type=2 #92
+2024/07/29-11:30:50.634 1d5fc Delete type=2 #93
+2024/07/29-11:30:50.634 1d5fc Delete type=2 #95

@@ -1,0 +1,34 @@
+{"value":"Preparing request to https://tutora-api.fly.dev/languages","name":"Text","timestamp":1720009905506}
+{"value":"Current time is 2024-07-03T12:31:45.506Z","name":"Text","timestamp":1720009905506}
+{"value":"Enable automatic URL encoding","name":"Text","timestamp":1720009905506}
+{"value":"Using default HTTP version","name":"Text","timestamp":1720009905507}
+{"value":"Enable timeout of 30000ms","name":"Text","timestamp":1720009905507}
+{"value":"Enable SSL validation","name":"Text","timestamp":1720009905507}
+{"name":"Text","value":"Found bundle for host tutora-api.fly.dev: 0xcc8055e3080 [can multiplex]\n","timestamp":1720009905507}
+{"name":"Text","value":"Re-using existing connection! (#3) with host tutora-api.fly.dev\n","timestamp":1720009905507}
+{"name":"Text","value":"Connected to tutora-api.fly.dev (66.241.125.190) port 443 (#3)\n","timestamp":1720009905507}
+{"name":"Text","value":"Using Stream ID: 3 (easy handle 0xcc804a15800)\n","timestamp":1720009905507}
+{"name":"Text","value":"TLSv1.2 (OUT), TLS header, Supplemental data (23):\n","timestamp":1720009905507}
+{"name":"HeaderOut","value":"GET /languages HTTP/2\r\nHost: tutora-api.fly.dev\r\nuser-agent: insomnia/9.3.1\r\naccept: */*\r\n\r\n","timestamp":1720009905507}
+{"name":"Text","value":"TLSv1.2 (IN), TLS header, Supplemental data (23):\n","timestamp":1720009905531}
+{"name":"HeaderIn","value":"HTTP/2 200 \r\n","timestamp":1720009905531}
+{"name":"HeaderIn","value":"x-frame-options: SAMEORIGIN\r\n","timestamp":1720009905532}
+{"name":"HeaderIn","value":"x-xss-protection: 0\r\n","timestamp":1720009905532}
+{"name":"HeaderIn","value":"x-content-type-options: nosniff\r\n","timestamp":1720009905532}
+{"name":"HeaderIn","value":"x-permitted-cross-domain-policies: none\r\n","timestamp":1720009905532}
+{"name":"HeaderIn","value":"referrer-policy: strict-origin-when-cross-origin\r\n","timestamp":1720009905532}
+{"name":"HeaderIn","value":"content-type: application/json; charset=utf-8\r\n","timestamp":1720009905532}
+{"name":"HeaderIn","value":"vary: Accept\r\n","timestamp":1720009905532}
+{"name":"HeaderIn","value":"etag: W/\"4f53cda18c2baa0c0354bb5f9a3ecbe5\"\r\n","timestamp":1720009905532}
+{"name":"HeaderIn","value":"cache-control: max-age=0, private, must-revalidate\r\n","timestamp":1720009905532}
+{"name":"HeaderIn","value":"x-request-id: 33a3b82d-d9d4-4c27-98f3-ecaccf869171\r\n","timestamp":1720009905532}
+{"name":"HeaderIn","value":"x-runtime: 0.004180\r\n","timestamp":1720009905532}
+{"name":"HeaderIn","value":"strict-transport-security: max-age=63072000; includeSubDomains\r\n","timestamp":1720009905532}
+{"name":"HeaderIn","value":"content-length: 2\r\n","timestamp":1720009905532}
+{"name":"HeaderIn","value":"date: Wed, 03 Jul 2024 12:31:45 GMT\r\n","timestamp":1720009905532}
+{"name":"HeaderIn","value":"server: Fly/577378ac (2024-07-02)\r\n","timestamp":1720009905532}
+{"name":"HeaderIn","value":"via: 2 fly.io\r\n","timestamp":1720009905532}
+{"name":"HeaderIn","value":"fly-request-id: 01J1W98NB8889BN844NZ8P4YSM-waw\r\n","timestamp":1720009905532}
+{"name":"HeaderIn","value":"\r\n","timestamp":1720009905532}
+{"name":"Text","value":"Received 2 B chunk","timestamp":1720009905532}
+{"name":"Text","value":"Connection #3 to host tutora-api.fly.dev left intact\n","timestamp":1720009905532}

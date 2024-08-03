@@ -1,0 +1,70 @@
+[2024-07-03 13:39:29.071] [info]  Running version 9.3.1
+[2024-07-03 13:39:29.098] [error] [electron client protocol] FAILED to set default protocol 'insomnia://'
+[2024-07-03 13:39:29.124] [info]  [electron client protocol] the current executable is not the default protocol for 'insomnia://'
+[2024-07-03 13:39:29.166] [info]  [electron client protocol] the default application set for 'insomnia://' is 'insomnia.desktop
+'
+[2024-07-03 13:39:29.291] [info]  [fix] Running database repairs
+[2024-07-03 13:39:29.375] [info]  [db] Initialized DB at /home/leshy/.config/Insomnia/insomnia.$TYPE.db
+[2024-07-03 13:39:29.376] [info]  [db] Init responses DB
+[2024-07-03 13:39:29.376] [info]  [db] Init websocket-responses DB
+[2024-07-03 13:39:29.377] [info]  [localstorage] Initialized at /home/leshy/.config/Insomnia/localStorage
+[2024-07-03 13:39:29.441] [info]  [main] Loading file:///opt/insomnia/resources/app.asar/index.html
+[2024-07-03 13:39:29.452] [info]  [main] Registering the hidden window restarting handler
+[2024-07-03 13:39:29.453] [info]  [updater] Not supported on this platform linux
+[2024-07-03 13:39:31.622] [info]  [main] Window ready, handling command line arguments [ '/opt/insomnia/insomnia' ]
+[2024-07-03 13:39:31.624] [info]  [main] Check args and create windows []
+[2024-07-03 13:39:31.624] [info]  [main] Checking for newer version than  9.3.1
+[2024-07-03 13:39:31.808] [info]  [main] Found newer version
+[2024-07-03 13:39:31.818] [info]  [main] Backup found at: /home/leshy/.config/Insomnia/backups/9.3.1
+[2024-07-03 13:47:43.247] [info]  [response] Delete body /home/leshy/.config/Insomnia/responses/96c395da-6ae1-4c8d-94f7-1095c09a49cb.response
+[2024-07-03 13:47:43.248] [info]  [response] Delete timeline /home/leshy/.config/Insomnia/responses/res_747b49f650634c36b1f107b778536d2f.timeline
+[2024-07-03 13:56:37.682] [info]  [response] Delete body /home/leshy/.config/Insomnia/responses/5acc043e-52f8-46fa-bfc0-ddc6e504db84.response
+[2024-07-03 13:56:37.682] [info]  [response] Delete timeline /home/leshy/.config/Insomnia/responses/res_c91107eecb3843c2967625a50c534d86.timeline
+[2024-07-03 14:31:26.859] [info]  [response] Delete body /home/leshy/.config/Insomnia/responses/bc3ade26-8f41-4e04-8834-6babbdfb7769.response
+[2024-07-03 14:31:26.859] [info]  [response] Delete timeline /home/leshy/.config/Insomnia/responses/res_757d7845aa5644059d41b08a0c585394.timeline
+[2024-07-03 14:31:37.609] [info]  [response] Delete body /home/leshy/.config/Insomnia/responses/54315500-943c-432f-afc5-eebee39ffd7d.response
+[2024-07-03 14:31:37.609] [info]  [response] Delete timeline /home/leshy/.config/Insomnia/responses/res_d03e9d78a56849c18b38861fedb5342f.timeline
+[2024-07-03 14:31:40.972] [info]  [response] Delete body /home/leshy/.config/Insomnia/responses/8077dc9c-80e1-4527-ac7d-4172ddbfd0c3.response
+[2024-07-03 14:31:40.974] [info]  [response] Delete timeline /home/leshy/.config/Insomnia/responses/res_952ce7f127394b36b25406460e899104.timeline
+[2024-07-03 14:31:45.604] [info]  [response] Delete timeline /home/leshy/.config/Insomnia/responses/res_34819948c71642e9a09c2c3188040961.timeline
+[2024-07-03 14:31:45.604] [info]  [response] Delete body /home/leshy/.config/Insomnia/responses/ab13c546-4b81-4d54-8d0d-eec7e9af1a81.response
+[2024-07-03 14:31:57.555] [info]  [response] Delete body /home/leshy/.config/Insomnia/responses/abba2f7f-d259-4273-9ca2-6fa49655270e.response
+[2024-07-03 14:31:57.555] [info]  [response] Delete timeline /home/leshy/.config/Insomnia/responses/res_742d1fdbff7440a0aaf9ff96595b0da4.timeline
+[2024-07-03 14:31:58.607] [info]  [response] Delete body /home/leshy/.config/Insomnia/responses/4c785a07-156c-48ea-a4ef-da034b65a47e.response
+[2024-07-03 14:31:58.608] [info]  [response] Delete timeline /home/leshy/.config/Insomnia/responses/res_be46bdce84ff45e6b9f23db781149d74.timeline
+[2024-07-03 14:32:09.840] [info]  [response] Delete body /home/leshy/.config/Insomnia/responses/bde7d754-d305-42f3-9fd0-4a8c0d0e73d4.response
+[2024-07-03 14:32:09.840] [info]  [response] Delete timeline /home/leshy/.config/Insomnia/responses/res_e75b1e058b2f48938489b241ba997f68.timeline
+[2024-07-03 14:32:14.451] [info]  [response] Delete body /home/leshy/.config/Insomnia/responses/a05c4203-4f4d-425b-82aa-039cbdd169e8.response
+[2024-07-03 14:32:14.452] [info]  [response] Delete timeline /home/leshy/.config/Insomnia/responses/res_29b47c35e6d7428a8a8c9b278671de28.timeline
+[2024-07-03 14:32:17.916] [info]  [response] Delete body /home/leshy/.config/Insomnia/responses/aa3111e0-ef68-4fb2-82bd-1de2cb79a0ac.response
+[2024-07-03 14:32:17.916] [info]  [response] Delete timeline /home/leshy/.config/Insomnia/responses/res_8a4ba2b2c598411fb2bff2748317db84.timeline
+[2024-07-03 14:43:36.677] [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114393)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+[2024-07-03 14:43:36.678] [error] Error: net::ERR_UNEXPECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114393)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+[2024-07-03 14:43:40.054] [error] Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114393)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+[2024-07-03 14:43:40.055] [error] Error: net::ERR_UNEXPECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114393)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+[2024-07-03 17:10:40.008] [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114393)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+[2024-07-03 17:10:40.010] [error] Error: net::ERR_UNEXPECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114393)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+[2024-07-03 17:40:08.141] [info]  [response] Delete body /home/leshy/.config/Insomnia/responses/4bff8084-5642-4d5d-99b5-185670d90ef0.response
+[2024-07-03 17:40:08.141] [info]  [response] Delete timeline /home/leshy/.config/Insomnia/responses/res_7b31aa72aebc489ea74faac069ce6a9c.timeline
+[2024-07-03 17:41:06.524] [info]  [response] Delete body /home/leshy/.config/Insomnia/responses/0dbc5e3c-08fd-4d28-a9c1-9bdfa89f2589.response
+[2024-07-03 17:41:06.524] [info]  [response] Delete timeline /home/leshy/.config/Insomnia/responses/res_1504cac9c9fe4042984e77cb0bdf3297.timeline
+[2024-07-03 17:41:07.704] [info]  [response] Delete body /home/leshy/.config/Insomnia/responses/fbeb6cf1-d095-4ca4-a928-db5446537f1b.response
+[2024-07-03 17:41:07.705] [info]  [response] Delete timeline /home/leshy/.config/Insomnia/responses/res_15236ffe067f4aa8ae8a8cc67f5f06c3.timeline

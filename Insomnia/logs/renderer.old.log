@@ -1,0 +1,867 @@
+[2024-07-03 13:39:30.156] [info]  [db] Initialized DB client
+[2024-07-03 13:39:30.163] [info]  [plugin] Loading 
+[2024-07-03 13:39:30.771] [info]  [project] Fetching org_0edf27db-3e85-4c23-a98d-9dfb724bd570
+[2024-07-03 13:39:30.936] [info]  [project] Redirecting to last visited project proj_52188c400adc4541b0158eb6bab5d48b
+[2024-07-03 13:39:30.945] [info]  [FileSystemDriver] Initialized in "/home/leshy/.config/Insomnia/version-control"
+[2024-07-03 13:39:32.765] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:39:32.765] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:39:32.766] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.e8bc8787-e482-4962-b1a5-03d44f0a3dfa.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:39:32.814] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:39:32.814] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:39:32.814] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.a423e9f8-3a52-4ea5-856c-0cdb22a62e9e.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:40:34.032] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:40:34.033] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:40:34.033] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.caf6c449-c00f-48b4-9239-9397f3a582d6.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:41:33.687] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:41:33.688] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:41:33.688] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.8a370aa6-104b-4516-aed1-6a519bc7f9c8.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:42:33.890] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:42:33.890] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:42:33.891] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.94d7d7e6-66a3-42f8-8e37-6469cb434bb1.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:43:33.782] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:43:33.782] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:43:33.782] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.2b73fe49-4388-4e6d-b6fa-6d5e41ff04d2.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:44:33.580] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:44:33.581] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:44:33.581] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.9117d688-8b3f-4f3a-b9bf-f1ba4eba6c4c.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:45:33.632] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:45:33.632] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:45:33.633] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.df1225c2-d086-4e7d-9ee5-72ee5bd8d7c6.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:46:33.600] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:46:33.600] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:46:33.600] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.ecaf51f6-189b-4955-9840-5a7b0906019e.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:47:33.821] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:47:33.821] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:47:33.821] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.f2753445-3c68-437f-b171-0dfaeab9ce7c.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:47:36.704] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:47:36.705] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:47:36.705] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.ae3cc407-6552-43ef-8840-f69f5da470e7.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:47:38.631] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:47:38.631] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:47:38.631] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.dd23e65b-4d73-4dbf-8beb-bf56608aabbe.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:47:39.750] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:47:39.750] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:47:39.750] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.b4075653-d9a5-4ac6-a7e0-f0090b109233.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:47:41.065] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:47:41.066] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:47:41.066] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.a85ab995-af54-4276-a317-72ad7810a8b3.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:47:42.080] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:47:42.080] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:47:42.080] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.63563b39-3259-4e19-a937-c277df23834f.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:47:43.026] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:47:43.026] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:47:43.026] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.2c965e00-dfe0-476b-b03a-258c29e3a919.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:47:43.231] [info]  [network] Response succeeded req=req_d4a08ce4f6b549fdabaf6f1c9cf5586b status=200
+[2024-07-03 13:47:43.361] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:47:43.361] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:47:43.362] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.f49e821c-8e69-4fa7-9259-bd8c39d78a7e.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:47:44.512] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:47:44.512] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:47:44.513] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.8cda1e09-5931-4d14-8c78-d5fad0e139e2.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:48:10.252] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:48:10.252] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:48:10.253] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.62960c7b-fda3-4083-ae55-a7a820ebe292.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:48:33.897] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:48:33.897] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:48:33.897] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.dbae30dc-3a63-4774-b71a-cc227fa336fb.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:48:55.001] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:48:55.002] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:48:55.002] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.c5f2d2ce-4dcb-462a-8afc-5163cc52319f.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:49:33.817] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:49:33.817] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:49:33.818] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.aa2bb484-6d81-448e-af47-101c7a93f96e.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:50:04.790] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:50:04.790] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:50:04.791] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.005cd26d-4a15-4386-8de2-41eb1b9bf2b4.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:50:14.738] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:50:14.738] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:50:14.739] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.0a4b85c6-17b9-4445-8f52-1e9fbbf738fb.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:50:33.726] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:50:33.727] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:50:33.727] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.392a213f-6e44-4e06-ab1b-509be1237143.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:51:04.020] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:51:04.020] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:51:04.020] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.b62239e9-9b34-4231-a859-c3316269d87d.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:51:05.201] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:51:05.201] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:51:05.201] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.0bea34bb-1589-41d2-84ec-8c67a61fab3d.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:51:08.199] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:51:08.200] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:51:08.200] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.110876e1-4ea6-4d5f-a9bd-4bd4be06d509.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:51:33.753] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:51:33.754] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:51:33.754] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.6b7c43db-555e-48e6-bc68-2b809e5fc505.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:52:33.594] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:52:33.594] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:52:33.594] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.50fe17b0-7393-4703-aa3a-50f71ca0a46e.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:53:30.684] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:53:30.684] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:53:30.685] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.52e4c9b5-5b8f-49ae-be6c-c988983efb22.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:53:33.694] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:53:33.694] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:53:33.694] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.1a25ca96-0cd0-4bf3-987a-d0a52a781d5d.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:53:35.440] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:53:35.440] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:53:35.440] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.3127161e-9da8-432b-b3ca-2c22e0ebc0a6.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:53:36.360] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:53:36.360] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:53:36.360] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.d2a9f466-6cff-4387-8fb0-b75a18c5e55e.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:53:37.116] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:53:37.117] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:53:37.117] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.b0f5f3ba-e417-4edc-ba9c-e3230def4144.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:53:37.127] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:53:37.127] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:53:37.128] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.0eff08e6-0d18-41da-9140-27c84a86cc61.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:53:38.208] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:53:38.208] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:53:38.208] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.8ca0d1e6-527a-43cf-8a4c-7de8622aa673.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:53:38.226] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:53:38.226] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:53:38.226] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.0561b2c6-1183-4fc5-aa22-775390bff092.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:53:38.229] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:53:38.229] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:53:38.229] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.210eb184-b21b-4768-866f-53ccd9b43f9b.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:53:39.351] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:53:39.351] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:53:39.351] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.f6bddf40-d5ae-40b7-a7db-d8290cc07261.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:53:44.452] [info]  [network] Response failed req=req_30b03c55a5854767a324c883df2b4928 err=Error: SSL connect error
+[2024-07-03 13:53:44.536] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:53:44.536] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:53:44.536] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.b1d72e7d-3066-49c5-b955-1dbe260c1fbd.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:53:47.854] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:53:47.854] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:53:47.854] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.4fcbc86f-277e-4e9b-8efe-57104ad4fab0.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:54:33.700] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:54:33.700] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:54:33.700] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.a2250975-3be2-48b6-9ac1-18e9b5e3aaa3.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:55:33.779] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:55:33.779] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:55:33.779] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.0d50c83f-8247-452e-bc90-fd34765317f1.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:56:10.766] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:56:10.766] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:56:10.766] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.5f026a52-aadc-49b4-a83f-a9ad9810137d.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:56:16.453] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:56:16.453] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:56:16.454] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.53202a4c-48a4-4839-a401-4eb0f2d64a1c.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:56:19.997] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:56:19.997] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:56:19.997] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.f1f2948f-580e-49c9-b17c-0fe1f1dd1296.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:56:21.208] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:56:21.208] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:56:21.209] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.b5d0ad2d-527d-48e9-bcb4-4c51abf0cd4d.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:56:23.606] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:56:23.607] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:56:23.607] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.83c6e1ca-55c9-4a2d-aa73-e82bfc312ff6.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:56:26.744] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:56:26.745] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:56:26.745] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.b15d7f09-cf82-404f-ab18-9bf0dff63de7.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:56:27.163] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:56:27.163] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:56:27.163] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.73533aca-b98c-45d8-b531-d12abf916120.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:56:28.347] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:56:28.347] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:56:28.347] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.fa1b1aec-491b-48a6-9919-cd6793bf5828.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:56:29.457] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:56:29.457] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:56:29.458] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.4d28ae9b-6a45-4047-ba14-a0786e59dc73.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:56:30.753] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:56:30.753] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:56:30.753] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.225628f7-5f63-4669-9fd4-627d47690a11.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:56:32.322] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:56:32.322] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:56:32.322] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.8697119a-456f-424b-86a1-1269def2b039.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:56:33.661] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:56:33.661] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:56:33.662] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.f14d8b14-243e-4f7d-9cac-63094e06e77d.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:56:37.675] [info]  [network] Response succeeded req=req_e92d2835173446f8a75986ed087d3c44 status=201
+[2024-07-03 13:56:37.762] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:56:37.762] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:56:37.763] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.0f7c66a9-5595-42e3-8108-e83ba5b51e13.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:56:38.102] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:56:38.102] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:56:38.102] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.8f3bc5be-642f-411e-9823-a243d05100cc.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:56:41.972] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:56:41.972] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:56:41.973] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.bfdc2846-e601-4fd3-b958-c0ccbcb3bf7e.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:56:50.642] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:56:50.642] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:56:50.642] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.d68fc9de-548f-4a57-829a-23ba084a579d.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:57:01.014] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:57:01.014] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:57:01.020] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.32efda0f-dfaa-43ac-9b63-78eb590330a6.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:57:33.618] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:57:33.618] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:57:33.618] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.d868d92a-f50c-4e6e-862c-ba8c6cd57fe4.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:57:34.626] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:57:34.626] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:57:34.626] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.055734bf-5043-4db9-9dad-e77a824a11bd.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:57:55.218] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:57:55.218] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:57:55.218] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.115be751-34a8-4a15-a266-0ae293880a83.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:58:33.720] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:58:33.720] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:58:33.721] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.a1aec345-ad29-4690-a262-de04e880c4bc.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:59:33.884] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:59:33.884] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:59:33.885] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.59206a91-41c8-4a6c-8054-cb7f220fd43e.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:59:40.539] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 13:59:40.539] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 13:59:40.540] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.d163142b-8408-4cbb-9876-f17e1d8d3876.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:00:33.642] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:00:33.642] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:00:33.642] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.44f883b2-4652-4029-a50f-039e956810da.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:01:16.029] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:01:16.029] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:01:16.029] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.3ffad12a-24c6-413a-88c9-4681c1977598.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:01:17.356] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:01:17.357] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:01:17.357] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.c91bfc73-33e8-4cfc-a920-9d479a91a79b.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:01:18.361] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:01:18.361] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:01:18.361] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.cf9d0585-e724-49bd-bc82-4017a1739937.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:01:22.948] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:01:22.948] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:01:22.948] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.a0b1aa6d-bb25-4063-92cb-f1d224c199e7.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:01:24.760] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:01:24.760] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:01:24.761] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.b5f476a3-fcc9-4e98-a492-ebfd59297258.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:01:31.193] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:01:31.194] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:01:31.194] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.a658cdc3-a06a-4232-835c-6a9d73d56513.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:01:33.110] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:01:33.110] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:01:33.110] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.45cdb847-20d0-48af-a98b-9eab7bb46e83.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:01:34.216] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:01:34.216] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:01:34.217] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.bb91fa22-74b9-422c-a88d-c5bf42eb7a9e.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:01:43.585] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:01:43.585] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:01:43.585] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.0d56912d-3669-464e-8bba-282ffe02b3c9.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:02:13.819] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:02:13.819] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:02:13.819] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.a186862d-c674-445c-a10e-124fa42dd7cd.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:02:14.997] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:02:14.998] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:02:14.998] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.cc707506-e864-45bc-a1ad-a4ffdbbfece0.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:02:29.842] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:02:29.842] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:02:29.842] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.9215a7b7-f708-464a-b350-c299b8125f5c.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:02:31.567] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:02:31.567] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:02:31.567] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.34721151-7935-46ef-80a7-efd0156a9d37.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:02:33.497] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:02:33.497] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:02:33.498] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.4ba25115-d5af-4438-a7eb-e73375bf95da.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:02:36.763] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:02:36.763] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:02:36.763] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.6871fa04-147b-4f6c-ada1-a4e64cb2a238.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:02:47.601] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:02:47.601] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:02:47.602] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.e04fc925-8e10-4116-b066-46e6c9c3465d.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:03:03.508] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:03:03.508] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:03:03.509] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.b78d2aed-e075-4027-9a5c-1747ca775d56.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:03:03.521] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:03:03.522] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:03:03.522] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.7517aea7-395c-4f17-a075-2a288b676bed.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:03:04.030] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:03:04.030] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:03:04.030] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.a5b102c8-feb7-447d-9f50-36b186989535.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:03:33.709] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:03:33.709] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:03:33.710] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.5a673c35-b014-4579-b0fc-01d555edbcfb.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:04:33.714] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:04:33.714] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:04:33.715] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.e253a999-d35c-4c9b-a9c0-53be2226f12b.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:05:33.844] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:05:33.844] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:05:33.845] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.e508e34b-1941-4baa-bde3-07fea76e451d.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:05:41.579] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:05:41.579] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:05:41.580] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.c85d1fe4-947d-41f7-86fe-d6d7d5120d32.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:05:43.450] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:05:43.450] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:05:43.450] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.b29e5b64-7825-48ea-83a4-bce855b2c247.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:06:33.760] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:06:33.760] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:06:33.760] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.7bf8e21f-de9a-465c-9038-a88af3a61517.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:06:46.658] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:06:46.658] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:06:46.658] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.1f1b102a-b51d-4436-a8f6-acc54c49e7e9.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:07:04.131] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:07:04.131] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:07:04.132] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.a21e8627-50a6-4efd-9a1a-72ac3fab4ae7.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:07:33.640] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:07:33.640] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:07:33.640] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.20c3b05f-6723-4297-b01c-07713dba5691.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:08:17.489] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:08:17.489] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:08:17.490] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.06284097-65ac-48f3-be49-a91b029ffaec.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:08:33.508] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:08:33.508] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:08:33.508] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.b7c07e01-248a-4033-9434-3d078afbc78f.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:08:51.398] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:08:51.398] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:08:51.399] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.03f5c1ba-841a-4598-a48a-f99041262cbf.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:09:27.954] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:09:27.954] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:09:27.954] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.0923e7f3-9009-4da9-8f05-39fb3134ae46.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:09:33.438] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:09:33.438] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:09:33.438] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.8f8c6c7e-fa23-410d-a346-2c9923cf2532.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:09:33.646] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:09:33.647] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:09:33.647] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.54234864-4eed-4797-8767-78231fdd46c7.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:10:26.176] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:10:26.176] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:10:26.177] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.48df4f8f-9ea0-476b-bb05-f696b6674efd.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:10:33.654] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:10:33.654] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:10:33.654] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.15623b14-0c82-4a81-b7dd-bfd89fb958a7.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:10:48.427] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:10:48.427] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:10:48.427] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.b8723afa-efab-4e0b-a677-00263cd6300c.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:10:49.327] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:10:49.328] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:10:49.334] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.097e3440-9771-4bae-80c2-b4c9a3e191f5.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:10:51.085] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:10:51.085] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:10:51.086] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.f50703bc-f3a1-4d64-8930-0f9fe19869d5.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:11:12.087] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:11:12.087] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:11:12.088] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.34674b15-97ac-4990-893d-f82928f8880a.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:11:30.636] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:11:30.637] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:11:30.637] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.84471c83-7629-4cc4-94f3-75459efe0dbc.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:11:33.759] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:11:33.760] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:11:33.760] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.eb8b2838-af7c-4652-a004-68a57fd4bc83.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:11:38.325] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:11:38.325] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:11:38.325] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.b58b6d3b-1409-48f0-83a4-3d51ff59185a.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:11:41.207] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:11:41.207] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:11:41.207] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.a2b1056c-c640-4ef3-b726-0145de86c8aa.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:11:50.559] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:11:50.559] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:11:50.559] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.22a91137-6377-4cc9-a75f-6b590c860152.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:11:59.300] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:11:59.301] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:11:59.301] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.e56f17c5-6e44-48a2-b2ef-443f30267c54.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:12:00.823] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:12:00.823] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:12:00.823] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.0a43442d-3b7a-485e-a978-a42e931a749e.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:12:01.259] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:12:01.260] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:12:01.260] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.c67a3aa6-130c-4565-9197-9465d829368d.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:12:01.265] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:12:01.265] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:12:01.265] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.b70ff5f0-ce2c-43b7-9e42-160f5aaa1876.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:12:33.538] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:12:33.538] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:12:33.539] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.7c2644ad-ed6a-492a-8a72-e09698757398.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:12:54.757] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:12:54.757] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:12:54.757] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.041c2695-5608-4c0a-8f38-a8c0345f0a00.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:13:22.310] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:13:22.311] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:13:22.311] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.02abc2dd-7393-4a17-904e-989f9a155d0c.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:13:25.028] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:13:25.029] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:13:25.029] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.df3b0326-70f1-43b2-9a04-6b74b56ad7a1.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:13:33.564] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:13:33.564] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:13:33.564] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.cfef16c9-d4db-4be2-82db-31c1bf9951ab.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:13:48.749] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:13:48.749] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:13:48.749] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.de1dc7e8-ebac-4ec5-a9b6-a4739049051a.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:14:11.582] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:14:11.583] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:14:11.583] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.4349af61-5613-42af-9750-f272ba453d38.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:14:33.823] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:14:33.824] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:14:33.824] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.66e0a6ee-3550-439e-9cd5-e97993486b17.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:15:33.727] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:15:33.728] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:15:33.728] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.b3a7e506-1822-474c-b79d-9ba962ee0a9f.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:16:33.683] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:16:33.683] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:16:33.683] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.8c1796d0-d9c7-4d0a-a68c-ca9a64b308d6.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:16:43.809] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:16:43.809] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:16:43.810] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.98cc05f2-f9dc-4b49-81b8-2584e0a438b1.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:17:33.705] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:17:33.705] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:17:33.705] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.319edee7-35d7-4c33-b475-8315b7a05862.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:18:07.187] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:18:07.187] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:18:07.187] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.1b30d795-8f0d-4131-b485-cf7af223c9fd.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:18:33.645] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:18:33.646] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:18:33.646] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.20c1a6dc-d8d5-4329-9bd4-22f6961bc051.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:19:12.288] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:19:12.289] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:19:12.289] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.218e509f-e2ec-4419-8a27-e5aa97a10ae2.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:19:33.776] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:19:33.776] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:19:33.776] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.a5282a5a-1c19-4cbb-9fd4-b846a42d0350.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:20:33.657] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:20:33.657] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:20:33.657] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.66e298fd-320b-4cd8-9723-c021e7fc4647.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:21:33.593] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:21:33.593] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:21:33.593] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.4ade0523-9bb1-46fd-8199-1d8c6119dae3.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:22:17.775] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:22:17.776] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:22:17.776] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.02bd1807-63e9-4086-b0c5-5dbc0cd01072.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:22:18.167] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:22:18.167] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:22:18.168] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.fa426c91-7b1b-4f76-8813-e3b668f2fdbc.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:22:33.640] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:22:33.640] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:22:33.641] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.4e6b01c8-5a99-4d59-a97e-bb5337dc8c29.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:23:33.679] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:23:33.679] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:23:33.679] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.a0661f9f-733f-4332-b83a-8b2c331fae37.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:23:52.944] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:23:52.944] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:23:52.944] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.5150c582-22ae-435e-9e23-fadb73fc3d65.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:24:33.775] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:24:33.775] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:24:33.775] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.4c5a697d-a70f-4619-b8e7-4d9ea64af897.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:25:33.677] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:25:33.677] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:25:33.677] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.7f2f9c94-afb8-4fb7-9b1c-f84c39d7db49.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:25:41.057] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:25:41.058] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:25:41.058] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.098eb389-49bb-472b-a860-6f07e09741e5.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:26:33.765] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:26:33.765] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:26:33.767] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.719dc3d6-833e-41af-acb7-dc198b26fe5f.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:27:33.625] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:27:33.626] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:27:33.626] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.75688594-aebe-485a-ad37-7597304ba45b.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:28:33.703] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:28:33.703] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:28:33.704] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.be26302e-6f82-401d-8765-737e846d1f2c.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:29:33.734] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:29:33.734] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:29:33.734] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.01109a05-39bc-4805-8a31-063ea783cb60.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:30:33.749] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:30:33.749] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:30:33.749] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.e0dbc41c-db0e-4139-8119-a4c495f45e96.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:09.960] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:09.960] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:09.960] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.85ff1fad-c073-4de1-b41b-0a15685100a5.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:12.933] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:12.933] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:12.934] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.a9024d4e-e965-443a-8742-e54764b203a7.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:14.264] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:14.264] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:14.264] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.403fbb0c-6f6f-49c5-a671-4a04cb379dc1.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:16.478] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:16.478] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:16.479] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.462ccbb1-c6a7-4bf1-a32d-2cdad92893d4.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:18.195] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:18.196] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:18.196] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.e57c7b00-3837-47a8-b799-7d55a1eb20a5.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:20.394] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:20.394] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:20.394] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.d916f003-84c5-4619-9f53-54dedaf5d86c.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:21.643] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:21.643] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:21.643] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.21d164d6-b1e8-493f-9f08-52820fec0090.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:22.735] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:22.735] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:22.735] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.cb8e4fd5-d408-4837-9cde-440a9b3b4226.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:23.012] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:23.013] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:23.013] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.dde7a82c-0b93-456f-ab32-db38b6f256ac.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:23.015] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:23.015] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:23.016] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.46933944-1d86-482c-ad38-1ca993876b46.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:23.240] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:23.240] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:23.249] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.48150f52-7fe3-42ca-9db0-d2a0b137624d.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:23.493] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:23.494] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:23.494] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.4eca8d7b-6bc0-49fe-96df-3503a0da0f3e.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:24.557] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:24.557] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:24.558] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.940241c9-0511-4f05-9f43-8d4e24fa269b.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:24.697] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:24.697] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:24.697] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.e0181d1c-452c-4386-9219-1ee2e66cfc61.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:25.030] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:25.030] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:25.030] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.cb5649c5-9e99-4590-8376-9743657b2abd.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:25.418] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:25.418] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:25.418] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.174b7376-3bf8-4642-bca9-2901bb608218.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:25.674] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:25.674] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:25.674] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.fb675607-9ae4-442a-bb3b-ca6b134cdc04.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:25.948] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:25.948] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:25.948] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.e07956f7-3aa4-4dc4-95a8-d8c7c8649f32.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:25.951] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:25.951] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:25.951] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.da3cb9f9-6036-4a58-8864-3145f820508c.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:26.703] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:26.703] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:26.704] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.5c97b035-2931-42d0-8830-fab8d5061017.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:26.843] [info]  [network] Response succeeded req=req_d4a08ce4f6b549fdabaf6f1c9cf5586b status=200
+[2024-07-03 14:31:26.926] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:26.926] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:26.926] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.9a7bd8b5-1b11-406f-a1da-47d2c00a3636.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:33.225] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:33.225] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:33.225] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.8509395a-7739-47b7-8920-6c1a45297042.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:34.083] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:34.084] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:34.084] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.942b421d-6098-4fc1-8515-87bc04213ba0.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:34.721] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:34.721] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:34.721] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.aecec117-f714-4b1b-9af4-8511272cfdbb.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:34.951] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:34.951] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:34.951] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.1f2258c2-7f3f-450a-914a-50e6c1c4423d.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:35.871] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:35.872] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:35.872] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.dd63d146-12e2-4ccd-93a7-63a09b19bdf5.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:36.755] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:36.755] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:36.757] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.1438c21b-2d82-423f-9bfd-050c1ad264e5.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:36.759] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:36.759] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:36.759] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.87b1e87f-0865-486f-8d3f-80c4439347d1.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:36.821] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:36.822] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:36.822] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.6c6afc81-b8ed-45f8-893a-7cf27f5cf63a.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:36.842] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:36.842] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:36.843] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.465da815-f47b-4bbf-85b2-155054794dfd.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:36.852] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:36.853] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:36.853] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.693d124a-a732-42e6-8be7-dd3b56c629b1.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:37.597] [info]  [network] Response failed req=req_e92d2835173446f8a75986ed087d3c44 err=Error: URL using bad/illegal format or missing URL
+[2024-07-03 14:31:37.672] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:37.673] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:37.673] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.ec7d72ca-0499-4bed-ac0a-636ca3a2b6c4.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:37.752] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:37.753] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:37.753] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.a94fac94-5d73-4e3a-a20b-edb0d2b3a03a.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:39.210] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:39.210] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:39.211] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.603ff866-3c70-4e0e-9201-768d2eb859ef.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:40.149] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:40.150] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:40.150] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.4694fc9e-e911-41d4-b2f2-9d5df81eb4ea.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:40.961] [info]  [network] Response failed req=req_e92d2835173446f8a75986ed087d3c44 err=Error: URL using bad/illegal format or missing URL
+[2024-07-03 14:31:41.035] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:41.035] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:41.035] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.9ea0f18c-3e40-456b-b6c2-10dba9f9f718.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:41.113] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:41.114] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:41.114] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.6bba53de-e772-456e-b132-cf72e03cfe7e.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:45.527] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:45.527] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:45.527] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.f2b0bdb5-e54b-4033-9670-5bef97b8880b.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:45.590] [info]  [network] Response succeeded req=req_d4a08ce4f6b549fdabaf6f1c9cf5586b status=200
+[2024-07-03 14:31:45.683] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:45.683] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:45.683] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.492239a3-cb92-4d6d-af1e-d12d3e95872e.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:48.790] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:48.790] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:48.790] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.2703beae-bd5d-4fa2-aff2-77771fabc578.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:49.401] [info]  [network] Response failed req=req_4cafdd322911474c851557bb66a35ef7 err=Error: Couldn't connect to server
+[2024-07-03 14:31:49.478] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:49.478] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:49.478] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.588d65cc-48d7-4092-bc45-32edada44ac2.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:49.553] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:49.553] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:49.554] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.a8be75a3-370e-427f-b1cb-594b687e544b.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:54.882] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:54.882] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:54.882] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.e103e06a-89dc-4f7b-9ffd-7fabb7f57a37.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:55.992] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:55.992] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:55.992] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.cd32e2c1-8006-4faf-9e87-9e21e5100ea0.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:57.549] [info]  [network] Response failed req=req_e92d2835173446f8a75986ed087d3c44 err=Error: URL using bad/illegal format or missing URL
+[2024-07-03 14:31:57.627] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:57.627] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:57.628] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.d2d5295e-8d86-4396-aa08-4309e6dd888d.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:57.766] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:57.767] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:57.767] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.5bd27073-f3d7-493d-b4fb-c109452c8303.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:58.602] [info]  [network] Response failed req=req_e92d2835173446f8a75986ed087d3c44 err=Error: URL using bad/illegal format or missing URL
+[2024-07-03 14:31:58.717] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:31:58.717] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:31:58.718] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.bf1c0f5c-d518-49c3-851c-9e75eb2aacaa.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:32:04.206] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:32:04.206] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:32:04.206] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.42d7d777-61cc-43b9-bb16-bb491e686128.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:32:07.167] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:32:07.168] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:32:07.168] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.6ee3fe52-7a00-4b7a-ad08-4f9152f5a25b.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:32:08.719] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:32:08.720] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:32:08.720] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.05a911a5-7e1d-467d-829b-a5053506efcd.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:32:09.814] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:32:09.814] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:32:09.814] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.08477839-8560-4753-895e-5930225cc2e9.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:32:09.836] [info]  [network] Response succeeded req=req_e92d2835173446f8a75986ed087d3c44 status=404
+[2024-07-03 14:32:09.930] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:32:09.930] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:32:09.930] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.366f40a8-e8f8-4677-a8e4-92a69f5a5894.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:32:12.470] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:32:12.471] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:32:12.471] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.5eb805f1-5c91-4ec0-a3e8-bc43f389be22.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:32:13.300] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:32:13.301] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:32:13.301] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.1591c3fb-3c13-438e-984d-5312a646c248.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:32:14.345] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:32:14.345] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:32:14.345] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.3ff37452-6aac-487d-86b2-725473bb8933.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:32:14.444] [info]  [network] Response succeeded req=req_e92d2835173446f8a75986ed087d3c44 status=500
+[2024-07-03 14:32:14.527] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:32:14.527] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:32:14.527] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.84cd4f1d-373a-4254-a1f3-17cc31b9467a.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:32:15.627] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:32:15.627] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:32:15.628] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.f5acffb0-9524-4c3a-98b8-2502b027ac29.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:32:16.244] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:32:16.244] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:32:16.244] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.6c6e7cdd-2d35-425f-a9a5-68644d807639.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:32:17.843] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:32:17.843] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:32:17.843] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.eb48e67b-0a3c-4b71-9abb-7943c6969771.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:32:17.912] [info]  [network] Response succeeded req=req_e92d2835173446f8a75986ed087d3c44 status=404
+[2024-07-03 14:32:18.003] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:32:18.003] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:32:18.003] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.079c56f3-81c7-4a07-b477-706eb8a3fe24.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:32:22.469] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:32:22.469] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:32:22.470] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.5944dc77-277c-453b-8ceb-146ccbd1c81c.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:32:33.709] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:32:33.710] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:32:33.710] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.1b352cea-7fce-4a52-9ebe-7d3ecc27d62c.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:33:33.680] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:33:33.680] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:33:33.681] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.1b525c91-da47-4c7c-bb61-f94d89c2dc26.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:34:33.758] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:34:33.758] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:34:33.759] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.7fbfe890-f576-4e9a-aadf-3f10d0f7607c.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:35:33.636] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:35:33.636] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:35:33.636] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.50acf7b2-a10d-45b1-8c70-a9f1d12e7f5b.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:36:33.798] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:36:33.798] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:36:33.799] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.18e105cb-43c0-4b87-8437-744ed69adf66.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:37:33.727] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:37:33.727] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:37:33.727] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.1bdb9f66-8095-4d9c-9cc7-309235397bc5.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:37:47.371] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:37:47.371] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:37:47.371] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.4a5d8e50-e337-428a-94a2-961f5887738e.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:38:33.762] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:38:33.763] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:38:33.763] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.ae319068-fbb4-4eb7-958f-c2d26109b4a3.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:39:33.696] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:39:33.696] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:39:33.697] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.3f00e603-755f-4120-b39b-e77450a7ddd7.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:40:33.754] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:40:33.755] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:40:33.755] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.946064ec-78b7-46d7-ad32-9a61e4d1a6ad.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:41:33.822] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:41:33.822] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:41:33.823] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.ef66e50e-835d-45b1-a251-ae42f927d4fb.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:43:44.244] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 14:43:44.244] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 14:43:44.244] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.a1adccc6-3f22-4cd9-8c8e-9dc8996c6b76.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:11:16.834] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:11:16.834] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:11:16.835] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.0960dc9f-d6fa-4117-8217-0627def5e275.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:12:16.833] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:12:16.833] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:12:16.833] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.11d214b9-f454-4470-a44f-8d3114c342de.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:13:17.465] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:13:17.465] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:13:17.466] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.ca39de4b-2759-4d63-b147-96fd522a9830.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:14:16.819] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:14:16.819] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:14:16.819] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.c464a67f-f138-4f50-b09f-4242a67588f1.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:15:16.858] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:15:16.858] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:15:16.859] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.422b9fbc-706d-4dea-98bf-1bf1034512ef.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:16:16.826] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:16:16.826] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:16:16.826] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.54046f9a-6a7a-4418-a24e-7021bee5b4b5.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:17:16.846] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:17:16.846] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:17:16.847] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.b8720833-22da-474a-825b-60065cfc465e.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:18:16.849] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:18:16.849] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:18:16.850] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.e1bef304-7078-45d0-9fcc-af3d3c324fa3.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:18:42.930] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:18:42.930] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:18:42.930] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.814f1aab-5262-4388-a0e2-b6279a7be818.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:19:16.822] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:19:16.822] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:19:16.823] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.fa244b7e-12ab-48e7-95ef-228f7b06509c.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:20:16.850] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:20:16.850] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:20:16.850] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.8c19e0ff-5cd6-4a34-b54a-ef26fa54b705.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:20:41.429] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:20:41.430] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:20:41.430] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.b4eb8233-008f-481a-832f-dba21f02f676.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:21:16.833] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:21:16.833] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:21:16.834] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.baca5a0f-6a7e-47c4-9174-ab0b12fc181c.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:22:16.850] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:22:16.850] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:22:16.850] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.309bf92e-1b50-42ff-8d27-c6ec753c3688.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:22:28.517] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:22:28.517] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:22:28.518] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.217f8c5b-3a42-4510-aa08-aa41e4344698.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:23:16.851] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:23:16.851] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:23:16.851] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.ba668ebe-c137-49a1-b7cd-0ee4c62fd828.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:24:16.839] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:24:16.840] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:24:16.840] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.9d63e6b3-8303-4ee4-bf83-62e8397fe7d9.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:25:16.855] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:25:16.855] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:25:16.855] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.14f1993e-c7be-4045-973e-09d5d3e6fd95.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:26:16.836] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:26:16.836] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:26:16.836] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.a5c24d89-fea9-410e-abaa-52bbf8ee60dd.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:27:16.835] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:27:16.836] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:27:16.836] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.d8403621-2e2f-498c-9dd3-82c77042a95f.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:28:16.839] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:28:16.840] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:28:16.840] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.c84af0e6-3c42-4c2b-84a4-1b8f1f172f45.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:29:16.848] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:29:16.848] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:29:16.848] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.288fbde4-6b11-4da9-868b-9b7fa3af6975.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:30:16.825] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:30:16.826] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:30:16.826] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.e576701d-0852-4ac8-8387-ef0c489d44b5.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:31:16.861] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:31:16.861] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:31:16.862] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.12f548b1-107d-465d-973c-a3bc105e7c20.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:32:16.847] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:32:16.847] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:32:16.848] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.f6c26839-09ad-4a28-9441-3cc195023726.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:33:16.838] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:33:16.839] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:33:16.839] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.b04887bb-46e4-4e1b-8499-801d74f45be3.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:34:16.834] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:34:16.834] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:34:16.835] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.bd23059e-6b82-4ea9-9122-e7c331647d30.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:35:16.838] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:35:16.838] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:35:16.839] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.c20f40ea-23a7-49f5-9e65-6409e1e3b1ec.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:36:16.819] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:36:16.820] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:36:16.820] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.61d8f4bb-4b8b-4656-a697-5ed4a1b4aa2e.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:36:30.994] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:36:30.994] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:36:30.995] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.3ac153a1-1f95-4e88-b74a-8d5b5dcaae01.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:37:16.818] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:37:16.818] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:37:16.818] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.8ed9f662-7918-40f5-878a-bc325fe9e984.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:37:39.934] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:37:39.935] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:37:39.935] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.6b2bc109-c6aa-4704-ba39-d8a6463b2722.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:37:41.215] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:37:41.215] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:37:41.215] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.4e936cc0-db31-4107-90bf-a1c548616c65.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:38:00.389] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:38:00.390] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:38:00.390] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.857eab98-79c2-4376-ba51-10134c034eee.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:38:01.885] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:38:01.885] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:38:01.885] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.b673ea4f-fed8-4b64-bebf-e57cca4a5699.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:38:16.803] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:38:16.803] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:38:16.804] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.e87a4e2d-7e73-45a1-9cf2-add622aef915.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:38:25.527] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:38:25.527] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:38:25.527] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.07e6813c-f505-49f9-8ff6-3ae1f9a0f5fa.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:38:41.673] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:38:41.673] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:38:41.673] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.13aad1b2-14a0-4420-95e5-a2b88b6a63e9.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:39:16.795] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:39:16.796] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:39:16.796] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.911b0cbd-a0fe-43a5-9b08-658bb362c426.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:39:28.112] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:39:28.113] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:39:28.113] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.cc40b974-78da-41b5-846c-10b2d58c14c8.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:39:29.587] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:39:29.587] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:39:29.588] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.fd4283de-6cb3-406a-a73f-4d7e6c47e88c.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:39:51.614] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:39:51.614] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:39:51.614] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.644eacac-784a-4f8a-9b8d-c77c297a6bef.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:39:55.956] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:39:55.957] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:39:55.957] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.bf1a8dc2-2a78-4be0-b9ca-c566c54a8f17.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:40:01.806] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:40:01.806] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:40:01.807] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.1f632203-142e-4200-9746-c8420cc510ec.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:40:08.137] [info]  [network] Response succeeded req=req_d4a08ce4f6b549fdabaf6f1c9cf5586b status=500
+[2024-07-03 17:40:08.230] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:40:08.230] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:40:08.230] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.653b48b0-41f6-41ad-8847-cacde8e9fa18.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:40:17.076] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:40:17.076] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:40:17.076] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.7abad315-b431-4cfc-ba0c-d96579d2f419.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:41:03.688] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:41:03.688] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:41:03.689] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.457ea626-a934-45d9-afdc-bf31e0956962.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:41:06.453] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:41:06.453] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:41:06.454] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.b234d255-c91b-4cea-b9d1-7314a7bb8835.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:41:06.521] [info]  [network] Response succeeded req=req_d4a08ce4f6b549fdabaf6f1c9cf5586b status=500
+[2024-07-03 17:41:06.609] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:41:06.609] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:41:06.609] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.f45754ac-edd9-4098-8051-e2ac7e0fdede.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:41:07.699] [info]  [network] Response succeeded req=req_d4a08ce4f6b549fdabaf6f1c9cf5586b status=500
+[2024-07-03 17:41:07.785] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:41:07.785] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:41:07.785] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.238e2783-82c3-442f-b1fb-e6ffb3e94b37.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:41:16.838] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:41:16.838] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:41:16.838] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.804b65a5-af8d-499b-ab9a-aa73ed85602e.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:42:16.855] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:42:16.855] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:42:16.855] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.8fced8ba-fcc6-483f-8d45-45ad89f16329.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:43:16.825] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:43:16.826] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:43:16.826] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.aea35618-b35d-4b33-b080-24e2b3aa44c5.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:44:16.854] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:44:16.855] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:44:16.855] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.46469cbd-c911-473d-b3f9-11e9946ad2d4.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:45:17.813] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:45:17.813] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:45:17.813] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.3521276f-6273-4521-9b3d-787ee40d98a0.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:46:17.797] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:46:17.797] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:46:17.798] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.399adc13-0c9a-4b9a-a5cf-f815130822ce.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:47:17.802] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:47:17.802] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:47:17.803] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.b82ab308-9f9e-4bd0-be7e-20920fe829f2.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:47:23.655] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:47:23.655] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:47:23.655] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.4a6128e2-1bbd-4971-8352-57914d8d97de.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:48:17.778] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:48:17.779] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:48:17.779] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.4513d19b-65fd-4275-a537-898ff3debfe6.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:49:17.815] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:49:17.815] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:49:17.815] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.c164bb01-1f5f-4fb9-9eaa-e2e27d4f23c1.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:49:28.927] [info]  [sync] Activated project prj_da89e9e2178045339764e5a3ff44bac5
+[2024-07-03 17:49:28.927] [info]  [FileSystemDriver] Writing to /projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json
+[2024-07-03 17:49:28.927] [info]  [FileSystemDriver] Writing to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json.97bd6a71-cfcc-41b6-b9a3-dfb1b2099b3f.tmp then renaming to /home/leshy/.config/Insomnia/version-control/projects/prj_da89e9e2178045339764e5a3ff44bac5/meta.json

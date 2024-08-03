@@ -1,0 +1,227 @@
+{
+    "layer": "top",
+    "position": "bottom", // Waybar position (top|bottom|left|right)
+    // "height": 30,
+    // "output": "DP-1", // Uncomment to specify a display
+    // "width": 1850, // Uncomment to set a custom width
+
+// Configuration - modules-left
+
+    "modules-left": [
+        "custom/launcher",
+        "sway/workspaces",
+        "sway/mode",
+        "sway/window",
+        "mpd"
+    ],    
+    "custom/launcher": {
+    	"format":"󰀻 ",
+    	"on-click": "exec nwg-drawer",
+    	"tooltip": false,
+    },
+    "sway/workspaces": {
+        "disable-scroll": true,
+        "all-outputs": true,
+        "format": "{icon}",
+        "format-icons": {
+		"3": "3",
+		"4": "4",
+		"5": "5",
+		"6": "6",
+		"7": "7",
+		"8": "8",
+		"9": "9",
+		"10": "10",
+        }
+    },
+    "sway/mode": {
+        "format": "<span style=\"italic\">{}</span>"
+    },
+    "mpd": {
+        "format": "{stateIcon} {consumeIcon}{randomIcon}{repeatIcon}{singleIcon}{artist} - {album} - {title} ({elapsedTime:%M:%S}/{totalTime:%M:%S}) ⸨{songPosition}|{queueLength}⸩ ",
+        "format-disconnected": "Disconnected ",
+        "format-stopped": "{consumeIcon}{randomIcon}{repeatIcon}{singleIcon}Stopped ",
+        "unknown-tag": "N/A",
+        "interval": 2,
+        "consume-icons": {
+            "on": " "
+        },
+        "random-icons": {
+            "off": "<span color=\"#f53c3c\"></span> ",
+            "on": " "
+        },
+        "repeat-icons": {
+            "on": " "
+        },
+        "single-icons": {
+            "on": "1 "
+        },
+        "state-icons": {
+            "paused": "",
+            "playing": ""
+        },
+        "tooltip-format": "MPD (connected)",
+        "tooltip-format-disconnected": "MPD (disconnected)"
+    },
+    "sway/window": {
+        // "all-outputs": true, // Uncomment for active window on all outputs
+        "format": "{}"
+    },
+
+// Configuration - modules-right
+
+    "modules-right": [
+        "network",
+        "custom/updates",
+        "custom/keyboard-layout",
+        "cpu",
+        "temperature",
+        "memory",
+        "idle_inhibitor",
+        "backlight",
+        "custom/wl-gammarelay-temperature", "custom/wl-gammarelay-brightness",
+	      "custom/weather",
+        "pulseaudio",
+        "battery",
+        "clock",
+        "tray",
+        "custom/power",
+    ],
+    
+
+    "network": {
+        "format": " Disabled",
+        "format-wifi": "  {bandwidthDownBits:>}  {bandwidthUpBits:>} ",
+        "tooltip-format-wifi": "{essid}",
+        "format-ethernet": " {bandwidthDownBits:>} {bandwidthUpBits:>} ",
+        "tooltip-format-ethernet": "{ifname}: {ipaddr}/{cidr}",
+        "format-disconnected": " Disconnected",
+        "exec": "nm-applet",
+        "on-click": "nm-connection-editor",
+        "interval": 2,
+    },
+    "custom/updates": {
+        "format": "{} {icon}",
+        "return-type": "json",
+        "format-icons": {
+            "has-updates": "",
+            "updated": ""
+        },
+        "exec-if": "which waybar-module-pacman-updates",
+        "exec": "waybar-module-pacman-updates",
+        "on-click": "foot -T arch-update -e bash -c 'paru -Syu && (read -p \"Update complete. Press Enter to exit.\" && exit 0) || (read -p \"Update failed. Press Enter to exit.\" && exit 1)'",
+        "on-click-right": "foot -T waybar_pacseek -e pacseek"
+    },
+    "custom/keyboard-layout": {
+      	"exec": "i=$(swaymsg -t get_inputs); echo \"\"; echo \"$i\" | grep -m1 'xkb_active_layout_name' | cut -d '\"' -f4",
+      	// Interval set only as a fallback, as the value is updated by signal
+      	"interval": 30,
+      	"format": "",
+      	"signal": 1,
+        "on-click": "~/.config/waybar/scripts/keyhint.sh",
+    },
+    "cpu": {
+        "format": " {usage: >3}%",
+        "on-click": "foot -T waybar_btop -e bpytop"
+    },
+    "memory": {
+        "format": " {: >3}%",
+        "on-click": "foot -T waybar_btop -e bpytop"
+    },
+    "temperature": {
+        "critical-threshold": 80,
+        "format-critical": " {temperatureC}°C",
+        "format": " {temperatureC}°C",
+        "tooltip-format": "{temperatureC}° Celsius\n{temperatureF}° Fahrenheit\n{temperatureK}° Kelvin",
+        "on-click": "foot -T waybar_btop -e bpytop"
+    },    
+    "idle_inhibitor": {
+        "format": "{icon}",
+        "format-icons": {
+            "activated": "",
+            "deactivated": ""
+        },
+        "tooltip-format-activated": "Idle Inhibitor Activated",
+        "tooltip-format-deactivated": "Idle Inhibitor Deactivated"
+    },
+    "backlight": {
+        "format": "{icon}{percent: >3}%",
+        "format-icons": ["", ""],
+        "tooltip-format": "Backlight (Scroll): {percent: >3}%",
+        "on-scroll-down": "brightnessctl -c backlight set 5%-",
+        "on-scroll-up": "brightnessctl -c backlight set +5%"
+    },
+    "pulseaudio": {
+        "scroll-step": 5,
+        "format": "{icon} {volume: >3}%",
+        "format-bluetooth": "{icon} {volume: >3}%",
+        "format-muted":" muted",
+        "format-icons": {
+            "headphones": " ",
+            "handsfree": " ",
+            "headset": " ",
+            "phone": " ",
+            "portable": " ",
+            "car": " ",
+            "default": [" ", " "]
+        },
+        "on-click": "sway-floating helvum",
+        "on-click-right": "sway-floating pavucontrol"
+    },
+    "battery": {
+        "states": {
+            "warning": 30,
+            "critical": 15
+        },
+        "format": "{icon} {capacity: >3}%",
+        "format-icons": [" ", " ", " ", " ", " "]
+    },
+    "clock": {
+        "format": " {:%OI:%M %p}",
+        "on-click": "foot -T waybar_calcurse -e calcurse",
+        "tooltip-format": " {:%A %m/%d}\n\n<tt><small>{calendar}</small></tt>",
+        "calendar": {
+            "on-scroll": 1,
+            "format": {
+                "months":     "<span color='#ffead3'><b>{}</b></span>",
+                "days":       "<span color='#ecc6d9'><b>{}</b></span>",
+                "weeks":      "<span color='#99ffdd'><b>W{}</b></span>",
+                "weekdays":   "<span color='#ffcc66'><b>{}</b></span>",
+                "today":      "<span color='#ff6699'><b><u>{}</u></b></span>"
+            },
+        },
+        "actions": {
+            "on-scroll-up": "shift_up",
+            "on-scroll-down": "shift_down"
+        },
+    },
+    "custom/wl-gammarelay-temperature": {
+      "format": "  {} ",
+      "exec": "wl-gammarelay --subscribe Temperature",
+      "on-scroll-up": "busctl --user -- call rs.wl-gammarelay / rs.wl.gammarelay UpdateTemperature n +100",
+      "on-scroll-down": "busctl --user -- call rs.wl-gammarelay / rs.wl.gammarelay UpdateTemperature n -100"
+    },
+    "custom/wl-gammarelay-brightness": {
+      "format": "  {} ",
+      "exec": "wl-gammarelay --subscribe Brightness",
+      "on-scroll-up": "busctl --user -- call rs.wl-gammarelay / rs.wl.gammarelay UpdateBrightness d +0.02",
+      "on-scroll-down": "busctl --user -- call rs.wl-gammarelay / rs.wl.gammarelay UpdateBrightness d -0.02"
+    },
+    "custom/weather": {
+	    "format": "{}°",
+	    "tooltip": true,
+	    "interval": 3600,
+	    "exec": "wttrbar",
+	    "return-type": "json"
+    },
+    "tray": {
+        "icon-size": 15 
+    },
+
+    "custom/power": {
+      	"format":"⏻",
+       	"on-click": "nwg-bar",
+      	"tooltip": false,
+    },
+
+}

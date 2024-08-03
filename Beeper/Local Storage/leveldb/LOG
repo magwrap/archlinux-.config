@@ -1,0 +1,6 @@
+2024/08/03-16:44:22.496 58b6 Reusing MANIFEST /home/leshy/.config/Beeper/Local Storage/leveldb/MANIFEST-000001
+2024/08/03-16:44:22.502 58b6 Recovering log #93
+2024/08/03-16:44:22.502 58b6 Reusing old log /home/leshy/.config/Beeper/Local Storage/leveldb/000093.log 
+2024/08/03-16:51:22.838 58b6 Level-0 table #97: started
+2024/08/03-16:51:22.869 58b6 Level-0 table #97: 40610 bytes OK
+2024/08/03-16:51:22.872 58b6 Delete type=0 #93

@@ -1,0 +1,19 @@
+[Added Associations]
+text/markdown=org.codeberg.dnkl.foot.desktop;
+text/plain=org.xfce.mousepad.desktop;
+image/png=imv.desktop;
+image/jpeg=viewnior.desktop;imv.desktop;gimp.desktop;
+x-scheme-handler/mailto=userapp-Thunderbird-VSSUP2.desktop;
+x-scheme-handler/mid=userapp-Thunderbird-VSSUP2.desktop;
+application/pdf=vivaldi-stable.desktop;org.pwmt.zathura.desktop;
+
+[Default Applications]
+text/html=vivaldi-stable.desktop
+x-scheme-handler/http=vivaldi-stable.desktop
+x-scheme-handler/https=vivaldi-stable.desktop
+x-scheme-handler/about=vivaldi-stable.desktop
+x-scheme-handler/unknown=vivaldi-stable.desktop
+x-scheme-handler/mailto=userapp-Thunderbird-VSSUP2.desktop
+message/rfc822=userapp-Thunderbird-VSSUP2.desktop
+x-scheme-handler/mid=userapp-Thunderbird-VSSUP2.desktop
+x-scheme-handler/eclipse+command=_usr_lib_dbeaver_.desktop

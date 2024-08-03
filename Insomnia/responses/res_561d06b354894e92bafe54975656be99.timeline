@@ -1,0 +1,31 @@
+{"value":"Preparing request to http://localhost:3000/api/v1/languages","name":"Text","timestamp":1719846866565}
+{"value":"Current time is 2024-07-01T15:14:26.565Z","name":"Text","timestamp":1719846866565}
+{"value":"Enable automatic URL encoding","name":"Text","timestamp":1719846866565}
+{"value":"Using default HTTP version","name":"Text","timestamp":1719846866566}
+{"value":"Enable timeout of 30000ms","name":"Text","timestamp":1719846866566}
+{"value":"Enable SSL validation","name":"Text","timestamp":1719846866566}
+{"name":"Text","value":"Connection 18 seems to be dead!\n","timestamp":1719846866566}
+{"name":"Text","value":"Closing connection 18\n","timestamp":1719846866566}
+{"name":"Text","value":"Hostname in DNS cache was stale, zapped\n","timestamp":1719846866567}
+{"name":"Text","value":"  Trying 127.0.0.1:3000...\n","timestamp":1719846866567}
+{"name":"Text","value":"Connected to localhost (127.0.0.1) port 3000 (#19)\n","timestamp":1719846866567}
+{"name":"HeaderOut","value":"POST /api/v1/languages HTTP/1.1\r\nHost: localhost:3000\r\nUser-Agent: insomnia/9.3.1\r\nContent-Type: application/json\r\nAccept: */*\r\nContent-Length: 69\r\n\r\n","timestamp":1719846866567}
+{"name":"DataOut","value":"{\n\t\t\"language\": {\n\t\t\t\"uid\": \"user123213\",\n\t\t\t\"name\": \"English\"\n\t\t}\n}\n","timestamp":1719846866567}
+{"name":"Text","value":"Mark bundle as not supporting multiuse\n","timestamp":1719846866674}
+{"name":"HeaderIn","value":"HTTP/1.1 201 Created\r\n","timestamp":1719846866674}
+{"name":"HeaderIn","value":"x-frame-options: SAMEORIGIN\r\n","timestamp":1719846866674}
+{"name":"HeaderIn","value":"x-xss-protection: 0\r\n","timestamp":1719846866674}
+{"name":"HeaderIn","value":"x-content-type-options: nosniff\r\n","timestamp":1719846866674}
+{"name":"HeaderIn","value":"x-permitted-cross-domain-policies: none\r\n","timestamp":1719846866674}
+{"name":"HeaderIn","value":"referrer-policy: strict-origin-when-cross-origin\r\n","timestamp":1719846866674}
+{"name":"HeaderIn","value":"location: http://localhost:3000/languages/user123213\r\n","timestamp":1719846866674}
+{"name":"HeaderIn","value":"content-type: application/json; charset=utf-8\r\n","timestamp":1719846866674}
+{"name":"HeaderIn","value":"etag: W/\"6fbe12850bb15944b8b0e432b3d3ef1b\"\r\n","timestamp":1719846866674}
+{"name":"HeaderIn","value":"cache-control: max-age=0, private, must-revalidate\r\n","timestamp":1719846866674}
+{"name":"HeaderIn","value":"x-request-id: 17cb0e87-09cb-4292-84a0-73ddb2de3a40\r\n","timestamp":1719846866674}
+{"name":"HeaderIn","value":"x-runtime: 0.105295\r\n","timestamp":1719846866674}
+{"name":"HeaderIn","value":"server-timing: start_processing.action_controller;dur=0.01, sql.active_record;dur=126.34, transaction.active_record;dur=70.75, process_action.action_controller;dur=102.37\r\n","timestamp":1719846866674}
+{"name":"HeaderIn","value":"Content-Length: 129\r\n","timestamp":1719846866674}
+{"name":"HeaderIn","value":"\r\n","timestamp":1719846866674}
+{"name":"Text","value":"Received 129 B chunk","timestamp":1719846866674}
+{"name":"Text","value":"Connection #19 to host localhost left intact\n","timestamp":1719846866674}

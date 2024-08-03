@@ -1,0 +1,1 @@
+{"status":500,"error":"Internal Server Error","exception":"#\u003cActiveRecord::RecordNotUnique: PG::UniqueViolation: ERROR:  duplicate key value violates unique constraint \"languages_pkey\"\nDETAIL:  Key (languages_id)=(0) already exists.\n\u003e","traces":{"Application Trace":[],"Framework Trace":[],"Full Trace":[]}}

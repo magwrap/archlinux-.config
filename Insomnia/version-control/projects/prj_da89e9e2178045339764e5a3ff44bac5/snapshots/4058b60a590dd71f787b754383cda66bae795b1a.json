@@ -1,0 +1,25 @@
+{
+  "author": "acct_267a7c65384f4a74b17aefe6d2fe1ada",
+  "authorAccount": {
+    "email": "janmusioldev@gmail.com",
+    "firstName": "Jan",
+    "lastName": "Musioł"
+  },
+  "created": "2024-07-01T11:47:59.039Z",
+  "description": "",
+  "id": "4058b60a590dd71f787b754383cda66bae795b1a",
+  "name": "Initial Snapshot",
+  "parent": "0000000000000000000000000000000000000000",
+  "state": [
+    {
+      "blob": "2677a51fe3b198b1338c03e2a5d02146e555e76b",
+      "key": "env_a0b2fce4d050753fc0cbcf98a23232afe66eab9d",
+      "name": "Base Environment"
+    },
+    {
+      "blob": "661e455668af047f1ee07642ae25bb779bbc2813",
+      "key": "wrk_76800ba359c84aef851e314b78af2979",
+      "name": "Tutora-Api"
+    }
+  ]
+}

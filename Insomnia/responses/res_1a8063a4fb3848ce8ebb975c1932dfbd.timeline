@@ -1,0 +1,25 @@
+{"value":"Preparing request to https://tutora-api.fly.dev/languages","name":"Text","timestamp":1720021267662}
+{"value":"Current time is 2024-07-03T15:41:07.662Z","name":"Text","timestamp":1720021267662}
+{"value":"Enable automatic URL encoding","name":"Text","timestamp":1720021267662}
+{"value":"Using default HTTP version","name":"Text","timestamp":1720021267662}
+{"value":"Enable timeout of 30000ms","name":"Text","timestamp":1720021267662}
+{"value":"Enable SSL validation","name":"Text","timestamp":1720021267662}
+{"name":"Text","value":"Found bundle for host tutora-api.fly.dev: 0xcc804780dc0 [can multiplex]\n","timestamp":1720021267663}
+{"name":"Text","value":"Re-using existing connection! (#5) with host tutora-api.fly.dev\n","timestamp":1720021267663}
+{"name":"Text","value":"Connected to tutora-api.fly.dev (66.241.125.190) port 443 (#5)\n","timestamp":1720021267663}
+{"name":"Text","value":"Using Stream ID: 5 (easy handle 0xcc804a18400)\n","timestamp":1720021267663}
+{"name":"Text","value":"TLSv1.2 (OUT), TLS header, Supplemental data (23):\n","timestamp":1720021267663}
+{"name":"HeaderOut","value":"GET /languages HTTP/2\r\nHost: tutora-api.fly.dev\r\nuser-agent: insomnia/9.3.1\r\naccept: */*\r\n\r\n","timestamp":1720021267663}
+{"name":"Text","value":"TLSv1.2 (IN), TLS header, Supplemental data (23):\n","timestamp":1720021267694}
+{"name":"HeaderIn","value":"HTTP/2 500 \r\n","timestamp":1720021267694}
+{"name":"HeaderIn","value":"content-type: text/html; charset=UTF-8\r\n","timestamp":1720021267694}
+{"name":"HeaderIn","value":"x-request-id: f9e5bd27-8143-4fa8-9ea9-e6cd18c8ed6d\r\n","timestamp":1720021267694}
+{"name":"HeaderIn","value":"x-runtime: 0.009760\r\n","timestamp":1720021267694}
+{"name":"HeaderIn","value":"strict-transport-security: max-age=63072000; includeSubDomains\r\n","timestamp":1720021267694}
+{"name":"HeaderIn","value":"content-length: 0\r\n","timestamp":1720021267694}
+{"name":"HeaderIn","value":"date: Wed, 03 Jul 2024 15:41:08 GMT\r\n","timestamp":1720021267694}
+{"name":"HeaderIn","value":"server: Fly/577378ac (2024-07-02)\r\n","timestamp":1720021267694}
+{"name":"HeaderIn","value":"via: 2 fly.io\r\n","timestamp":1720021267694}
+{"name":"HeaderIn","value":"fly-request-id: 01J1WM3E4JD7400R8XM8QZ4M54-waw\r\n","timestamp":1720021267694}
+{"name":"HeaderIn","value":"\r\n","timestamp":1720021267694}
+{"name":"Text","value":"Connection #5 to host tutora-api.fly.dev left intact\n","timestamp":1720021267694}

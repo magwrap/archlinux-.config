@@ -1,0 +1,9 @@
+# GIMP action-history
+
+(history-item "file-save-as" 1)
+(history-item "filters-color-temperature" 0)
+(history-item "filters-hue-chroma" 0)
+(history-item "filters-exposure" 0)
+(history-item "file-export-as" 1)
+
+# end of action-history

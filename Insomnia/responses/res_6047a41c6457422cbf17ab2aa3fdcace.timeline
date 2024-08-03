@@ -1,0 +1,23 @@
+{"value":"Preparing request to http://localhost:3000/api/v1/languages","name":"Text","timestamp":1719845975671}
+{"value":"Current time is 2024-07-01T14:59:35.671Z","name":"Text","timestamp":1719845975671}
+{"value":"Enable automatic URL encoding","name":"Text","timestamp":1719845975671}
+{"value":"Using default HTTP version","name":"Text","timestamp":1719845975672}
+{"value":"Enable timeout of 30000ms","name":"Text","timestamp":1719845975672}
+{"value":"Enable SSL validation","name":"Text","timestamp":1719845975672}
+{"name":"Text","value":"Too old connection (2622 seconds), disconnect it\n","timestamp":1719845975673}
+{"name":"Text","value":"Connection 7 seems to be dead!\n","timestamp":1719845975673}
+{"name":"Text","value":"Closing connection 7\n","timestamp":1719845975673}
+{"name":"Text","value":"Hostname in DNS cache was stale, zapped\n","timestamp":1719845975673}
+{"name":"Text","value":"  Trying 127.0.0.1:3000...\n","timestamp":1719845975673}
+{"name":"Text","value":"Connected to localhost (127.0.0.1) port 3000 (#8)\n","timestamp":1719845975673}
+{"name":"HeaderOut","value":"GET /api/v1/languages HTTP/1.1\r\nHost: localhost:3000\r\nUser-Agent: insomnia/9.3.1\r\nAccept: */*\r\n\r\n","timestamp":1719845975673}
+{"name":"Text","value":"Mark bundle as not supporting multiuse\n","timestamp":1719845976369}
+{"name":"HeaderIn","value":"HTTP/1.1 404 Not Found\r\n","timestamp":1719845976369}
+{"name":"HeaderIn","value":"content-type: application/json; charset=UTF-8\r\n","timestamp":1719845976369}
+{"name":"HeaderIn","value":"x-request-id: 4aa90546-515f-451d-9553-05ee4e8e87cc\r\n","timestamp":1719845976369}
+{"name":"HeaderIn","value":"x-runtime: 0.695089\r\n","timestamp":1719845976370}
+{"name":"HeaderIn","value":"server-timing: sql.active_record;dur=337.47\r\n","timestamp":1719845976370}
+{"name":"HeaderIn","value":"Content-Length: 6883\r\n","timestamp":1719845976370}
+{"name":"HeaderIn","value":"\r\n","timestamp":1719845976370}
+{"name":"Text","value":"Received 6.7 KB chunk","timestamp":1719845976370}
+{"name":"Text","value":"Connection #8 to host localhost left intact\n","timestamp":1719845976370}

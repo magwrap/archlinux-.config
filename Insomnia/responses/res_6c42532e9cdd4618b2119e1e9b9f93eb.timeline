@@ -1,0 +1,22 @@
+{"value":"Preparing request to http://localhost:3000/api/v1/languages","name":"Text","timestamp":1719846660526}
+{"value":"Current time is 2024-07-01T15:11:00.526Z","name":"Text","timestamp":1719846660526}
+{"value":"Enable automatic URL encoding","name":"Text","timestamp":1719846660526}
+{"value":"Using default HTTP version","name":"Text","timestamp":1719846660527}
+{"value":"Enable timeout of 30000ms","name":"Text","timestamp":1719846660527}
+{"value":"Enable SSL validation","name":"Text","timestamp":1719846660527}
+{"name":"Text","value":"Found bundle for host localhost: 0x383c054f5e40 [serially]\n","timestamp":1719846660527}
+{"name":"Text","value":"Can not multiplex, even if we wanted to!\n","timestamp":1719846660527}
+{"name":"Text","value":"Re-using existing connection! (#16) with host localhost\n","timestamp":1719846660527}
+{"name":"Text","value":"Connected to localhost (127.0.0.1) port 3000 (#16)\n","timestamp":1719846660527}
+{"name":"HeaderOut","value":"POST /api/v1/languages HTTP/1.1\r\nHost: localhost:3000\r\nUser-Agent: insomnia/9.3.1\r\nContent-Type: application/json\r\nAccept: */*\r\nContent-Length: 54\r\n\r\n","timestamp":1719846660527}
+{"name":"DataOut","value":"{\n\t\t\"uid\": null,\n\t\t\"language\": {\"name\": \"English\"}\n\n}\n","timestamp":1719846660527}
+{"name":"Text","value":"Mark bundle as not supporting multiuse\n","timestamp":1719846660619}
+{"name":"HeaderIn","value":"HTTP/1.1 500 Internal Server Error\r\n","timestamp":1719846660619}
+{"name":"HeaderIn","value":"content-type: application/json; charset=UTF-8\r\n","timestamp":1719846660619}
+{"name":"HeaderIn","value":"x-request-id: 3a2cdb8d-27db-4232-9b46-b8cce2175322\r\n","timestamp":1719846660619}
+{"name":"HeaderIn","value":"x-runtime: 0.091366\r\n","timestamp":1719846660619}
+{"name":"HeaderIn","value":"server-timing: start_processing.action_controller;dur=0.01, sql.active_record;dur=113.27, transaction.active_record;dur=55.96, process_action.action_controller;dur=87.58\r\n","timestamp":1719846660619}
+{"name":"HeaderIn","value":"Content-Length: 396\r\n","timestamp":1719846660619}
+{"name":"HeaderIn","value":"\r\n","timestamp":1719846660619}
+{"name":"Text","value":"Received 396 B chunk","timestamp":1719846660619}
+{"name":"Text","value":"Connection #16 to host localhost left intact\n","timestamp":1719846660619}

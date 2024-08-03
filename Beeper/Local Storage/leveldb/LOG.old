@@ -1,0 +1,27 @@
+2024/07/25-15:27:24.954 1d5fa Reusing MANIFEST /home/leshy/.config/Beeper/Local Storage/leveldb/MANIFEST-000001
+2024/07/25-15:27:24.964 1d5fa Recovering log #81
+2024/07/25-15:27:24.966 1d5fa Reusing old log /home/leshy/.config/Beeper/Local Storage/leveldb/000081.log 
+2024/07/25-15:29:25.444 1d5fa Level-0 table #85: started
+2024/07/25-15:29:25.455 1d5fa Level-0 table #85: 35264 bytes OK
+2024/07/25-15:29:25.458 1d5fa Delete type=0 #81
+2024/07/25-16:18:25.444 1d5fc Level-0 table #87: started
+2024/07/25-16:18:25.457 1d5fc Level-0 table #87: 30684 bytes OK
+2024/07/25-16:18:25.467 1d5fc Delete type=0 #84
+2024/07/26-12:55:02.850 1d5fc Level-0 table #89: started
+2024/07/26-12:55:02.862 1d5fc Level-0 table #89: 28696 bytes OK
+2024/07/26-12:55:02.866 1d5fc Delete type=0 #86
+2024/07/26-12:55:02.866 1d5fc Compacting 4@0 + 1@1 files
+2024/07/26-12:55:02.872 1d5fc Generated table #90@0: 309 keys, 104092 bytes
+2024/07/26-12:55:02.872 1d5fc Compacted 4@0 + 1@1 files => 104092 bytes
+2024/07/26-12:55:02.875 1d5fc compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/07/26-12:55:02.876 1d5fc Delete type=2 #79
+2024/07/26-12:55:02.876 1d5fc Delete type=2 #82
+2024/07/26-12:55:02.876 1d5fc Delete type=2 #85
+2024/07/26-12:55:02.876 1d5fc Delete type=2 #87
+2024/07/26-12:55:02.876 1d5fc Delete type=2 #89
+2024/07/29-11:41:36.780 1d5fc Level-0 table #92: started
+2024/07/29-11:41:36.791 1d5fc Level-0 table #92: 38482 bytes OK
+2024/07/29-11:41:36.794 1d5fc Delete type=0 #88
+2024/07/29-19:22:03.282 1d5fc Level-0 table #94: started
+2024/07/29-19:22:03.288 1d5fc Level-0 table #94: 32757 bytes OK
+2024/07/29-19:22:03.292 1d5fc Delete type=0 #91

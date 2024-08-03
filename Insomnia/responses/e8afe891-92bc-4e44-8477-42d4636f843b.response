@@ -1,0 +1,1 @@
+{"status":404,"error":"Not Found","exception":"#\u003cActionController::RoutingError: uninitialized constant Api\u003e","traces":{"Application Trace":[],"Framework Trace":[],"Full Trace":[]}}

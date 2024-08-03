@@ -1,0 +1,23 @@
+[font]
+size = 15.0
+
+# [font.bold]
+# family = "JetBrainsMono"
+# style = "Bold"
+#
+# [font.bold_italic]
+# family = "JetBrainsMono"
+# style = "Bold Italic"
+#
+# [font.italic]
+# family = "JetBrainsMono"
+# style = "Italic"
+#
+# [font.normal]
+# family = "JetBrainsMono"
+# style = "Regular"
+
+
+# import = [
+#     "~/.config/alacritty/themes/themes/ashes_dark.toml"
+# ]

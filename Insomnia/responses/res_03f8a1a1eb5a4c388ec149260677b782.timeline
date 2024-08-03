@@ -1,0 +1,12 @@
+{"value":"Preparing request to http://localhost:3000/api/v1/languages/1","name":"Text","timestamp":1720009909391}
+{"value":"Current time is 2024-07-03T12:31:49.391Z","name":"Text","timestamp":1720009909391}
+{"value":"Enable automatic URL encoding","name":"Text","timestamp":1720009909391}
+{"value":"Using default HTTP version","name":"Text","timestamp":1720009909392}
+{"value":"Enable timeout of 30000ms","name":"Text","timestamp":1720009909392}
+{"value":"Enable SSL validation","name":"Text","timestamp":1720009909392}
+{"name":"Text","value":"  Trying 127.0.0.1:3000...\n","timestamp":1720009909392}
+{"name":"Text","value":"connect to 127.0.0.1 port 3000 failed: Connection refused\n","timestamp":1720009909392}
+{"name":"Text","value":"  Trying ::1:3000...\n","timestamp":1720009909392}
+{"name":"Text","value":"connect to ::1 port 3000 failed: Connection refused\n","timestamp":1720009909393}
+{"name":"Text","value":"Failed to connect to localhost port 3000 after 0 ms: Connection refused\n","timestamp":1720009909393}
+{"name":"Text","value":"Closing connection 4\n","timestamp":1720009909393}
